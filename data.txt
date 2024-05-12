@@ -1,0 +1,792 @@
+EPIC-SG-240507-0003  |  Love Monster: Arena of Legends                               |  2024-05-07  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-240507-0002  |  Cafe Maid cute anime girls                                   |  2024-05-07  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-240507-0006  |  Eden's Lair                                                  |  2024-05-07  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-240507-0008  |  Gigantic: Rampage Edition                                    |  2024-05-07  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-240430-0001  |  Warhammer 40,000: Rogue Trader                               |  2024-04-30  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-240423-0002  |  Oddsparks: An Automation Adventure                           |  2024-04-23  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-240423-0003  |  Mirage: a Biplane Adventure                                  |  2024-04-23  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-240330-0011  |  Ship's Cat                                                   |  2024-03-30  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-240330-0001  |  Reliefs The Time of the Lemures                              |  2024-03-30  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-240330-0004  |  Unveiling                                                    |  2024-03-30  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-240330-0002  |  Massira                                                      |  2024-03-30  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-240330-0008  |  Victory At Sea Atlantic                                      |  2024-03-30  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-240330-0012  |  Space Accident                                               |  2024-03-30  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-240330-0009  |  The Wraith of the Galaxy                                     |  2024-03-30  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-240330-0010  |  Medieval Knight                                              |  2024-03-30  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-240315-0002  |  Out of the Park Baseball 25                                  |  2024-03-15  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-240311-0010  |  The Star Named EOS                                           |  2024-03-11  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-240311-0008  |  EREBAN: Shadow Legacy                                        |  2024-03-11  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-240311-0005  |  Poly-Dash                                                    |  2024-03-11  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-240311-0011  |  Bears in Space                                               |  2024-03-11  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-240311-0004  |  Jusant                                                       |  2024-03-11  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-240311-0009  |  Witch It                                                     |  2024-03-11  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-240311-0006  |  The Bridge                                                   |  2024-03-11  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-240311-0001  |  Language Learning Simulator : Alphabet                       |  2024-03-11  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-240311-0002  |  Never Synth                                                  |  2024-03-11  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-240304-0018  |  DotAGE                                                       |  2024-03-04  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-240304-0017  |  Castle of Blackwater                                         |  2024-03-04  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-240304-0012  |  goalgetter                                                   |  2024-03-04  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-240304-0004  |  Revival: Recolonization                                      |  2024-03-04  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-240304-0005  |  Serafina's Saga: Awakened                                    |  2024-03-04  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-240304-0007  |  Cat Slide Tiles                                              |  2024-03-04  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-240304-0010  |  Metal Mind                                                   |  2024-03-04  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-240304-0008  |  Gordian Rooms 2: A curious island                            |  2024-03-04  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-240304-0011  |  Wizened Dream                                                |  2024-03-04  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-240304-0006  |  HeavyBurden                                                  |  2024-03-04  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-240304-0002  |  Project Element                                              |  2024-03-04  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-240304-0009  |  Lost Islands                                                 |  2024-03-04  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-240304-0003  |  Pinbot                                                       |  2024-03-04  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-240221-0003  |  Earth, Fire, And Wind                                        |  2024-02-21  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-240220-0001  |  Super Meat Boy Forever                                       |  2024-02-20  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-240205-0002  |  Evershire                                                    |  2024-02-05  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-240205-0004  |  WE ARE FOOTBALL 2024                                         |  2024-02-05  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-240205-0003  |  Lysfanga : The Time Shift Warrior                            |  2024-02-05  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-240205-0001  |  The Last Game                                                |  2024-02-05  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-240125-0003  |  Kingsgrave                                                   |  2024-01-25  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-240125-0002  |  Necrosmith 2                                                 |  2024-01-25  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-240125-0001  |  Bandle Tale: A League of Legends Story                       |  2024-01-25  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-240122-0004  |  Robobeat                                                     |  2024-01-22  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-240122-0006  |  The Lullaby of Life                                          |  2024-01-22  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-240122-0009  |  TRIBES 3: Rivals                                             |  2024-01-22  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-240122-0007  |  Potions: A Curious Tale                                      |  2024-01-22  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-240122-0002  |  Gambit Shifter                                               |  2024-01-22  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-240122-0019  |  The Story Goes On                                            |  2024-01-22  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-240122-0017  |  Alchemist: The Potion Monger                                 |  2024-01-22  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-240122-0018  |  RPG Survivors                                                |  2024-01-22  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-240122-0015  |  Airhead                                                      |  2024-01-22  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-240122-0020  |  Wavecade                                                     |  2024-01-22  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-240122-0003  |  The Eightfold Path                                           |  2024-01-22  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-240122-0021  |  Lost Castle                                                  |  2024-01-22  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-240122-0008  |  Title_Pending                                                |  2024-01-22  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-240122-0012  |  Make it Stop!                                                |  2024-01-22  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-240122-0001  |  A Game About Flicking A Switch                               |  2024-01-22  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-240122-0011  |  The Rusty Sword: Vanguard Island                             |  2024-01-22  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-240122-0010  |  Galaxy Trek                                                  |  2024-01-22  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-240120-0001  |  Doors: Paradox                                               |  2024-01-20  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-240116-0002  |  Game Dev Masters                                             |  2024-01-16  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-240115-0003  |  Astro Duel 2                                                 |  2024-01-15  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-240115-0002  |  Legendary Tales                                              |  2024-01-15  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-240115-0001  |  Zi                                                           |  2024-01-15  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-231221-0002  |  Pacific Drive                                                |  2023-12-21  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-231221-0001  |  LOVE                                                         |  2023-12-21  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-231218-0003  |  Sail Forth                                                   |  2023-12-18  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-231218-0001  |  Cursed to Golf                                               |  2023-12-18  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-231218-0004  |  Freshly Frosted                                              |  2023-12-18  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-231218-0002  |  Human Resource Machine                                       |  2023-12-18  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-231213-0001  |  20 Minutes Till Dawn                                         |  2023-12-13  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-231213-0002  |  Melvor Idle                                                  |  2023-12-13  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-231210-0001  |  art of rally                                                 |  2023-12-10  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-231204-0007  |  The Devil Within: Satgat                                     |  2023-12-04  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-231204-0005  |  SAE                                                          |  2023-12-04  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-231204-0003  |  The Death Into Trouble                                       |  2023-12-04  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-231204-0001  |  Forsaken Dunes                                               |  2023-12-04  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-231204-0008  |  Stargate: Timekeepers                                        |  2023-12-04  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-231204-0004  |  Hero Battle Fantasy Arena                                    |  2023-12-04  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-231129-0001  |  Genesis of a Small God                                       |  2023-11-29  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-231124-0002  |  Organs Please                                                |  2023-11-24  |  /Images/grade_icon/rating_18.gif 
+EPIC-SG-231122-0005  |  Brothers: A Tale of Two Sons Remake                          |  2023-11-22  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-231122-0006  |  Brothers: A Tale of Two Sons                                 |  2023-11-22  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-231122-0004  |  Slide Stories: Bucky's Quest                                 |  2023-11-22  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-231122-0003  |  Weener Smash - 1st Edition                                   |  2023-11-22  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-231122-0002  |  Miasma Chronicles                                            |  2023-11-22  |  /Images/grade_icon/rating_18.gif 
+EPIC-SG-231122-0001  |  Stray Blade                                                  |  2023-11-22  |  /Images/grade_icon/rating_18.gif 
+EPIC-SG-231114-0001  |  MICROVOLTS Recharged                                         |  2023-11-14  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-231114-0002  |  Tales Of The Tiny Planet                                     |  2023-11-14  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-231106-0001  |  Back Then                                                    |  2023-11-06  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-231101-0011  |  EARTHLOCK                                                    |  2023-11-02  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-231101-0012  |  Roboquest                                                    |  2023-11-02  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-231101-0004  |  Expeditions: A Mudrunner Game                                |  2023-11-01  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-231101-0007  |  Cat Quest                                                    |  2023-11-01  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-231101-0001  |  TRAIL OUT                                                    |  2023-11-01  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-231101-0005  |  Desktop Girlfriend NEO                                       |  2023-11-01  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-231101-0003  |  Lucky Goal                                                   |  2023-11-01  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-231101-0009  |  Observation Particle Life 1                                  |  2023-11-01  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-231101-0008  |  Jitsu Squad                                                  |  2023-11-01  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-231031-0003  |  iCode STEM Universe                                          |  2023-10-31  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-231031-0007  |  Delivery Boy                                                 |  2023-10-31  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-231031-0021  |  Ultros                                                       |  2023-10-31  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-231031-0004  |  Draw & Guess                                                 |  2023-10-31  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-231031-0011  |  Paladin's Passage                                            |  2023-10-31  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-231031-0013  |  CriticalOrb                                                  |  2023-10-31  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-231031-0002  |  Snakebird Complete                                           |  2023-10-31  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-231031-0001  |  Old Skool Racer                                              |  2023-10-31  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-231031-0023  |  MetaDOS                                                      |  2023-10-31  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-231031-0025  |  Indoorlands                                                  |  2023-10-31  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-231031-0020  |  OctaFight                                                    |  2023-10-31  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-231031-0024  |  The Invincible                                               |  2023-10-31  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-231031-0005  |  Ninja Resurrection: A tale of Kuro                           |  2023-10-31  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-231031-0010  |  Depthris                                                     |  2023-10-31  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-231031-0012  |  Buddy and Friends on Halloween                               |  2023-10-31  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-231031-0008  |  Extreme Offroad Racing                                       |  2023-10-31  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-231031-0014  |  Garten of Banban 6                                           |  2023-10-31  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-231031-0015  |  Garten of Banban 5                                           |  2023-10-31  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-231031-0016  |  Garten of Banban 4                                           |  2023-10-31  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-231031-0017  |  Garten of Banban 3                                           |  2023-10-31  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-231031-0018  |  Garten of Banban 2                                           |  2023-10-31  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-231031-0019  |  Garten of Banban 1                                           |  2023-10-31  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-231031-0026  |  Mighty Fight Federation                                      |  2023-10-31  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-231019-0001  |  Story Craft                                                  |  2023-10-19  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-231011-0001  |  Eternal Threads                                              |  2023-10-11  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-231011-0002  |  The Front                                                    |  2023-10-11  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-231006-0001  |  Godzilla Voxel Wars                                          |  2023-10-06  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230921-0001  |  YourWorld 3.0 Live                                           |  2023-09-21  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230921-0002  |  Bang-On Balls: Chronicles                                    |  2023-09-21  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230921-0003  |  Godlike Burger                                               |  2023-09-21  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230918-0002  |  Metalstorm                                                   |  2023-09-18  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230918-0001  |  Q.U.B.E. 10th Anniversary                                    |  2023-09-18  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230912-0003  |  Golfing in Aether                                            |  2023-09-12  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230912-0002  |  Gravity Oddity                                               |  2023-09-12  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230912-0001  |  Eternights                                                   |  2023-09-12  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230907-0013  |  Rise of the Robots X                                         |  2023-09-07  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230907-0020  |  Vertical Kingdom                                             |  2023-09-07  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230907-0022  |  Arto                                                         |  2023-09-07  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230907-0023  |  Everholm                                                     |  2023-09-07  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230907-0007  |  Crystal Ball Critters                                        |  2023-09-07  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230907-0016  |  Echoes of the Plum Grove                                     |  2023-09-07  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230907-0018  |  Subterrain: Mines of Titan                                   |  2023-09-07  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230907-0003  |  Shrine's Legacy                                              |  2023-09-07  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230907-0009  |  Minigolf Blast                                               |  2023-09-07  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230907-0005  |  March of Shrooms                                             |  2023-09-07  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230907-0010  |  MiLE HiGH TAXi                                               |  2023-09-07  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230907-0001  |  Starship Troopers :  Extermination                           |  2023-09-07  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230907-0012  |  Virtual Rides 3                                              |  2023-09-07  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230907-0014  |  The Golden Eyed Ghosts                                       |  2023-09-07  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230907-0004  |  Asterogues                                                   |  2023-09-07  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230907-0008  |  Kingdom Rush Vengeance                                       |  2023-09-07  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230907-0019  |  Tavernacle!                                                  |  2023-09-07  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230907-0002  |  Inside Soccer                                                |  2023-09-07  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230907-0011  |  ANXRacers - Drift Space                                      |  2023-09-07  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230907-0017  |  R.I.C.E.                                                     |  2023-09-07  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230907-0021  |  The Witch of Fern Island                                     |  2023-09-07  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230907-0015  |  World Turtles                                                |  2023-09-07  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230907-0006  |  Doomed Lands                                                 |  2023-09-07  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230907-0024  |  Model Builder                                                |  2023-09-07  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230904-0001  |  Dream Tactics                                                |  2023-09-04  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230904-0002  |  Black Forest                                                 |  2023-09-04  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230904-0004  |  Planeticus                                                   |  2023-09-04  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230904-0006  |  Dark Deity                                                   |  2023-09-04  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230828-0004  |  G.I. Joe: Wrath of Cobra                                     |  2023-08-28  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230828-0001  |  Spellcats: Auto Card Tactics                                 |  2023-08-28  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230828-0003  |  Logicubes                                                    |  2023-08-28  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230828-0005  |  The Forest Quartet                                           |  2023-08-28  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230828-0002  |  Prison City                                                  |  2023-08-28  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230825-0001  |  I Did Not Buy This Ticket                                    |  2023-08-25  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230825-0002  |  90 Minute Fever                                              |  2023-08-25  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230822-0006  |  Bum Ball Bears                                               |  2023-08-22  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230822-0003  |  Sweet Dreams Alex                                            |  2023-08-22  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230822-0002  |  Demon Turf Neon Splash                                       |  2023-08-22  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230822-0005  |  Bot Crisis                                                   |  2023-08-22  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230822-0001  |  Aerial Platforms                                             |  2023-08-22  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230816-0003  |  The Crackpet Show: Happy Tree Friends Edition                |  2023-08-16  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230816-0001  |  911 Operator                                                 |  2023-08-16  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230814-0004  |  Snowmen                                                      |  2023-08-14  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230814-0002  |  Warhammer Age of Sigmar: Realms of Ruin                      |  2023-08-14  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230814-0003  |  Compass of the Destiny: Istanbul                             |  2023-08-14  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230814-0007  |  POPUCOM                                                      |  2023-08-14  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230814-0006  |  Stray Gods: The Roleplaying Musical                          |  2023-08-14  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230814-0005  |  Legion TD 2                                                  |  2023-08-14  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230814-0001  |  Infinifactory                                                |  2023-08-14  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230810-0015  |  Bish Bash Bots                                               |  2023-08-10  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230810-0016  |  Aquarist                                                     |  2023-08-10  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230810-0002  |  Vectoroids                                                   |  2023-08-10  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230810-0007  |  Retro Racers 2                                               |  2023-08-10  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230810-0012  |  Brick Breaker Premium 3                                      |  2023-08-10  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230810-0001  |  Video Game Trivia                                            |  2023-08-10  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230810-0006  |  Super Arcade Boy in Goodbye Greenies                         |  2023-08-10  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230810-0005  |  Television Trivia                                            |  2023-08-10  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230810-0008  |  Movie Actor Trivia                                           |  2023-08-10  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230810-0009  |  Martian Invaders                                             |  2023-08-10  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230810-0003  |  The Sports Trivia Challenge                                  |  2023-08-10  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230810-0004  |  The Music Trivia Challenge                                   |  2023-08-10  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230810-0010  |  Insectipede                                                  |  2023-08-10  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230810-0013  |  Brick Breaker Premium 2                                      |  2023-08-10  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230810-0014  |  The Movie Trivia Challenge                                   |  2023-08-10  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230810-0011  |  Hanoi Puzzles - Solid Match                                  |  2023-08-10  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230807-0004  |  Captain Bones                                                |  2023-08-07  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230807-0009  |  Train Sim World® 4                                           |  2023-08-07  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230807-0008  |  Savant - Ascent REMIX                                        |  2023-08-07  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230807-0003  |  Stick to the Plan                                            |  2023-08-07  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230807-0005  |  Revive & Prosper                                             |  2023-08-07  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230807-0002  |  BLINNK and the Vacuum of Space                               |  2023-08-07  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230807-0010  |  Dark Fantasy 2: Jigsaw Puzzle                                |  2023-08-07  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230807-0006  |  Revive & Prosper: Prologue                                   |  2023-08-07  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230807-0007  |  Dark Fantasy: Jigsaw Puzzle                                  |  2023-08-07  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230803-0003  |  Kaze and the Wild Masks                                      |  2023-08-03  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230803-0001  |  Lord of the Rings Return to Moria                            |  2023-08-03  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230803-0004  |  Halloween World                                              |  2023-08-03  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230803-0002  |  Chants of Sennaar                                            |  2023-08-03  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230727-0001  |  Orwell: Keeping an Eye on You                                |  2023-07-27  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230719-0001  |  The Making of Karateka                                       |  2023-07-19  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230719-0002  |  DEEEER Simulator                                             |  2023-07-19  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230714-0002  |  Dros                                                         |  2023-07-14  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230714-0006  |  Estar Fiel                                                   |  2023-07-14  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230714-0007  |  Vaudeville                                                   |  2023-07-14  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230714-0001  |  You Can Do!mino                                              |  2023-07-14  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230714-0004  |  Terra Invicta                                                |  2023-07-14  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230714-0005  |  Airport CEO                                                  |  2023-07-14  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230628-0002  |  Eigengrau                                                    |  2023-06-28  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230628-0001  |  Rhythm Sprout: Sick Beats & Bad Sweets                       |  2023-06-28  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230623-0002  |  Candy Disaster2:TrapMaster                                   |  2023-06-23  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230620-0001  |  Amigo Kebab Simulator                                        |  2023-06-20  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230619-0007  |  Cyber: Mind Dive                                             |  2023-06-19  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230619-0009  |  Tents and Trees                                              |  2023-06-19  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230619-0004  |  Phantom Blade: Executioners                                  |  2023-06-19  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230619-0002  |  Fish                                                         |  2023-06-19  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230619-0005  |  ALAN-13 Reformation                                          |  2023-06-19  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230619-0001  |  Redneck Bowl Games                                           |  2023-06-19  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230619-0003  |  THE IMPOSSIBLE                                               |  2023-06-19  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230619-0006  |  KAREN SEES                                                   |  2023-06-19  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230619-0008  |  Candy Disaster                                               |  2023-06-19  |  /Images/grade_icon/rating_all.gif
+EPIC-SP-230619-0001  |  Ocean's Heart                                                |  2023-06-19  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230613-0001  |  Extremely Realistic Siege Warfare Simulator                  |  2023-06-13  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230606-0002  |  Dolmenjord - Viking Islands                                  |  2023-06-06  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230606-0001  |  Train Valley 2                                               |  2023-06-06  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230530-0004  |  Dirty Wars: September 11                                     |  2023-05-30  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230530-0002  |  F1® Manager 2023                                             |  2023-05-30  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230530-0001  |  Battle Planet - Judgement Day                                |  2023-05-30  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230524-0001  |  Daring Academy                                               |  2023-05-24  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230524-0003  |  Rescue Agency. The Kidnapper of happiness                    |  2023-05-24  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230524-0004  |  Midnight Ghost Hunt                                          |  2023-05-24  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230524-0002  |  DOOMBLADE                                                    |  2023-05-24  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230522-0005  |  World of Football                                            |  2023-05-22  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230522-0003  |  Secret Doctrine                                              |  2023-05-22  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230522-0001  |  Recollection                                                 |  2023-05-22  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230522-0002  |  Shop Tycoon: Prepare your wallet                             |  2023-05-22  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230522-0004  |  Feud                                                         |  2023-05-22  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230517-0002  |  Fae Farm                                                     |  2023-05-17  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230517-0001  |  Aron's Adventure                                             |  2023-05-17  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230511-0001  |  Hellcaster                                                   |  2023-05-11  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230511-0002  |  RIDE 5                                                       |  2023-05-11  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230508-0001  |  Ravenlok                                                     |  2023-05-08  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230502-0001  |  The Lord of the Rings: Gollum™                               |  2023-05-02  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230502-0002  |  Warhammer: Chaos And Conquest                                |  2023-05-02  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230428-0005  |  Raid on Taihoku                                              |  2023-04-28  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230428-0007  |  Alekon                                                       |  2023-04-28  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230428-0008  |  Death or Treat                                               |  2023-04-28  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230428-0014  |  Occupy Mars: The Game                                        |  2023-04-28  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230428-0009  |  Trivia King                                                  |  2023-04-28  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230428-0003  |  Brick Breaker Premium                                        |  2023-04-28  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230428-0004  |  Super Arcade Boy in Defender of Planet Earth                 |  2023-04-28  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230428-0011  |  Chronicles of Galdurvale                                     |  2023-04-28  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230428-0012  |  ELEGIES: Aya                                                 |  2023-04-28  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230428-0010  |  The Ultimate Trivia Challenge                                |  2023-04-28  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230428-0001  |  I'm looking for 3024 people                                  |  2023-04-28  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230428-0013  |  Ultimate Fishing Simulator 2                                 |  2023-04-28  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230428-0006  |  Infindustry                                                  |  2023-04-28  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230424-0001  |  Puzzle Compound                                              |  2023-04-24  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230424-0002  |  Ultimate Fishing Simulator                                   |  2023-04-24  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230420-0001  |  FlipScapes                                                   |  2023-04-20  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230420-0003  |  Placid Plastic Duck Simulator                                |  2023-04-20  |  /Images/grade_icon/rating_all.gif
+EPIC-SP-230420-0002  |  Toasterball                                                  |  2023-04-20  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230420-0004  |  Aabs Animals                                                 |  2023-04-20  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230420-0002  |  Duck Life 8: Adventure                                       |  2023-04-20  |  /Images/grade_icon/rating_12.gif 
+EPIC-SP-230420-0001  |  Tabletop Playground                                          |  2023-04-20  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230418-0001  |  Paw Paw Destiny                                              |  2023-04-18  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230418-0002  |  Riftbound                                                    |  2023-04-18  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230413-0007  |  Smelogs Playground                                           |  2023-04-13  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230413-0002  |  Goons: Legends & Mayhem                                      |  2023-04-13  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230413-0005  |  Police, Open The Door!                                       |  2023-04-13  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230413-0010  |  Rise of Jericho                                              |  2023-04-13  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230413-0004  |  Super Death Game SHOW! VR                                    |  2023-04-13  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230413-0009  |  Dealer's Life 2                                              |  2023-04-13  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230413-0003  |  Supergalactix                                                |  2023-04-13  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230413-0008  |  Sagittarius                                                  |  2023-04-13  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230413-0001  |  Kao the Kangaroo                                             |  2023-04-13  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230413-0011  |  Blood of Titans                                              |  2023-04-13  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230413-0006  |  Influent Definitive Edition                                  |  2023-04-13  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230410-0010  |  Maiden Cops                                                  |  2023-04-11  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230410-0009  |  Island Cities                                                |  2023-04-11  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230410-0011  |  Strawhart                                                    |  2023-04-11  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230410-0003  |  The Crust                                                    |  2023-04-10  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230410-0002  |  Screaming Chicken: Ultimate Showdown                         |  2023-04-10  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230410-0007  |  Virus Infinite                                               |  2023-04-10  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230410-0001  |  Right and Down                                               |  2023-04-10  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230410-0005  |  Spark Defense                                                |  2023-04-10  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230410-0004  |  Garten of Banban                                             |  2023-04-10  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230410-0008  |  Cultist Simulator                                            |  2023-04-10  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230406-0008  |  Daydream: Forgotten Sorrow                                   |  2023-04-07  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230406-0007  |  Spaceman Defender                                            |  2023-04-07  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230406-0006  |  Zephyrus Prelude                                             |  2023-04-07  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230406-0003  |  Mega City Police                                             |  2023-04-06  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230406-0004  |  Your Computer Might Be At Risk                               |  2023-04-06  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230406-0002  |  Boxville                                                     |  2023-04-06  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230406-0005  |  Minds of Nations                                             |  2023-04-06  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230406-0001  |  Voodoo Kid                                                   |  2023-04-06  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230403-0005  |  Parkour Legends                                              |  2023-04-03  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230403-0020  |  Lamoneo                                                      |  2023-04-03  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230403-0019  |  Cats Hidden in Italy                                         |  2023-04-03  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230403-0007  |  Love N War Hero By Chance II                                 |  2023-04-03  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230403-0002  |  Remains                                                      |  2023-04-03  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230403-0010  |  Loop                                                         |  2023-04-03  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230403-0014  |  Koropokkur in Love ~A Little Fairy's Tale~                   |  2023-04-03  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230403-0008  |  Chaos Galaxy                                                 |  2023-04-03  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230403-0015  |  Don't Byte Your Tongue                                       |  2023-04-03  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230403-0009  |  Everlasting Guilt                                            |  2023-04-03  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230403-0021  |  Out of Bounds                                                |  2023-04-03  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230403-0013  |  Roots Need Control 3.0                                       |  2023-04-03  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230403-0017  |  Electro Magnate                                              |  2023-04-03  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230403-0003  |  Covid Carl                                                   |  2023-04-03  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230403-0006  |  Outcore: Desktop Adventure                                   |  2023-04-03  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230403-0011  |  RUMBLE                                                       |  2023-04-03  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230403-0016  |  Lost and Hound                                               |  2023-04-03  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230403-0018  |  Roma Invicta                                                 |  2023-04-03  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230403-0001  |  Get Together: A Coop Adventure                               |  2023-04-03  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230403-0012  |  Death Crown                                                  |  2023-04-03  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230403-0004  |  Tales of the Orient - The Rising Sun                         |  2023-04-03  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230402-0012  |  Dawn Apart                                                   |  2023-04-02  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230402-0001  |  Goldilock One: BOSS ARENA                                    |  2023-04-02  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230402-0005  |  Train World                                                  |  2023-04-02  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230402-0002  |  Butchers Don't Surf!                                         |  2023-04-02  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230402-0010  |  Journey Into Darkness                                        |  2023-04-02  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230402-0007  |  Zero-G Gunfight                                              |  2023-04-02  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230402-0004  |  The Last Tater                                               |  2023-04-02  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230402-0013  |  Roboplant                                                    |  2023-04-02  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230402-0011  |  Apotheorasis • Lab of the Blind Gods                         |  2023-04-02  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230402-0009  |  AI Roguelite                                                 |  2023-04-02  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230402-0006  |  Dungeon Wizards                                              |  2023-04-02  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230331-0013  |  House In The Hollow                                          |  2023-03-31  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230331-0010  |  Inn Keeper                                                   |  2023-03-31  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230331-0014  |  Starlight X-2: Galactic Puzzles                              |  2023-03-31  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230331-0015  |  Poosh XL                                                     |  2023-03-31  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230331-0006  |  LEAGUE MANAGER 2023                                          |  2023-03-31  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230331-0004  |  'n Verlore Verstand                                          |  2023-03-31  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230331-0011  |  Dream magic will                                             |  2023-03-31  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230331-0012  |  Cats Yakuza                                                  |  2023-03-31  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230331-0008  |  Journey to the West                                          |  2023-03-31  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230331-0003  |  Workshop Simulator                                           |  2023-03-31  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230331-0017  |  Tear of Time: Lost memory                                    |  2023-03-31  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230331-0009  |  Beat Stickman: Infinity Clones                               |  2023-03-31  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230331-0007  |  BlastZone 2                                                  |  2023-03-31  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230329-0001  |  Age of Wonders 4                                             |  2023-03-29  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230323-0001  |  SYNCED                                                       |  2023-03-23  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230315-0001  |  Aimlabs                                                      |  2023-03-15  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230313-0001  |  The Legend of Heroes: Trails into Reverie                    |  2023-03-13  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230309-0001  |  Warhammer 40,000: Gladius - Relics of War                    |  2023-03-09  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230307-0001  |  Call of the Sea                                              |  2023-03-07  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230304-0001  |  Mask of the Rose                                             |  2023-03-04  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230221-0001  |  Duskers                                                      |  2023-02-21  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230220-0001  |  Guacamelee! Super Turbo Championship Edition                 |  2023-02-20  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230220-0002  |  Guacamelee! 2                                                |  2023-02-20  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230220-0004  |  Road 96: Mile 0                                              |  2023-02-20  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230220-0003  |  Out of the Park Baseball 24                                  |  2023-02-20  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-230213-0001  |  Figment 2: Creed Valley                                      |  2023-02-13  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230206-0001  |  Touch Type Tale                                              |  2023-02-06  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230201-0002  |  The Magical Mixture Mill                                     |  2023-02-01  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230201-0003  |  SOULVARS                                                     |  2023-02-01  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230201-0001  |  Coffee Talk Episode 2: Hibiscus & Butterfly                  |  2023-02-01  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230130-0004  |  Tchia                                                        |  2023-01-30  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230130-0003  |  Shoulders of Giants                                          |  2023-01-30  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-230117-0003  |  The Great War: Western Front                                 |  2023-01-17  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230117-0001  |  The Legend of Heroes: Trails to Azure                        |  2023-01-17  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230117-0002  |  Hell is Others                                               |  2023-01-17  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-230103-0001  |  Shadow Gambit: The Cursed Crew                               |  2023-01-03  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-221216-0001  |  Sable                                                        |  2022-12-16  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-221213-0001  |  Trust No Bunny                                               |  2022-12-13  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-221208-0001  |  Flame Keeper                                                 |  2022-12-08  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-221205-0002  |  Them's Fightin' Herds                                        |  2022-12-05  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-221205-0001  |  Bloons TD 6                                                  |  2022-12-05  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-221128-0001  |  Remnant 2                                                    |  2022-11-28  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-221123-0001  |  Lonesome Village                                             |  2022-11-23  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-221113-0001  |  RPG in a Box                                                 |  2022-11-13  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-221108-0001  |  A Space For The Unbound                                      |  2022-11-08  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-221107-0003  |  Fuga: Melodies of Steel 2                                    |  2022-11-07  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-221107-0002  |  When the Past was Around                                     |  2022-11-07  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-221101-0001  |  Dark Deity                                                   |  2022-11-01  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-221027-0002  |  Recipe For Disaster                                          |  2022-10-27  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-221027-0003  |  Rise of Industry                                             |  2022-10-27  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-221027-0001  |  Filament                                                     |  2022-10-27  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-221020-0001  |  My Time at Sandrock                                          |  2022-10-20  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-221006-0005  |  DE-EXIT - Eternal Matters                                    |  2022-10-06  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-221006-0009  |  The Entropy Centre                                           |  2022-10-06  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-221006-0001  |  Lock's Quest                                                 |  2022-10-06  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-221006-0002  |  Giana Sisters-Twisted Dreams                                 |  2022-10-06  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-221006-0003  |  SkyDrift Infinity                                            |  2022-10-06  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-221006-0004  |  Saint Kotar                                                  |  2022-10-06  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-221006-0008  |  AiroHeart                                                    |  2022-10-06  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-221006-0006  |  Bunny Park                                                   |  2022-10-06  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-221006-0007  |  Lemon Cake                                                   |  2022-10-06  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-220929-0002  |  Saturnalia                                                   |  2022-09-29  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-220929-0001  |  The Mysterious Misadventures of Mollie & Mordecai            |  2022-09-29  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220928-0001  |  Rising Hell                                                  |  2022-09-28  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-220926-0002  |  ToeJam & Earl: Back in the Groove!                           |  2022-09-26  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220922-0005  |  Tracks of Thought                                            |  2022-09-22  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220922-0006  |  Critter Crops                                                |  2022-09-22  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220922-0002  |  LunarLux                                                     |  2022-09-22  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220922-0004  |  Dust Fleet                                                   |  2022-09-22  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220922-0003  |  Hello Goodboy                                                |  2022-09-22  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-220922-0001  |  Deceive Inc.                                                 |  2022-09-22  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-220915-0001  |  Sins of a Solar Empire II                                    |  2022-09-15  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220915-0011  |  Death Drive                                                  |  2022-09-15  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-220915-0012  |  Voltaire: The Vegan Vampire                                  |  2022-09-15  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220915-0009  |  Blacktail                                                    |  2022-09-15  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-220915-0006  |  Eville                                                       |  2022-09-15  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-220915-0002  |  Ghostbusters: Spirits Unleashed                              |  2022-09-15  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220915-0008  |  A Hero's Rest                                                |  2022-09-15  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220915-0010  |  9 Years of Shadows                                           |  2022-09-15  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-220915-0003  |  RAILGRADE                                                    |  2022-09-15  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-220915-0007  |  Monorail Stories                                             |  2022-09-15  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-220915-0004  |  Gloomhaven                                                   |  2022-09-15  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220915-0005  |  Runbow                                                       |  2022-09-15  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220816-0001  |  Spirit of the Island                                         |  2022-08-17  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-220810-0001  |  Way of the Hunter                                            |  2022-08-10  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-220808-0006  |  Terracotta                                                   |  2022-08-08  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220808-0009  |  Funtasia                                                     |  2022-08-08  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220808-0005  |  Mars Base                                                    |  2022-08-08  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220808-0002  |  Train Sim World 3                                            |  2022-08-08  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-220808-0012  |  Call of the Wild: The Angler™                                |  2022-08-08  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-220808-0008  |  Monster Outbreak                                             |  2022-08-08  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220808-0001  |  Ring of Pain                                                 |  2022-08-08  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220808-0010  |  Broken Pieces                                                |  2022-08-08  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-220808-0004  |  City of Beats                                                |  2022-08-08  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220808-0011  |  Puzzles for Clef                                             |  2022-08-08  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-220808-0007  |  One Lonely Outpost                                           |  2022-08-08  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-220808-0003  |  Mail Time                                                    |  2022-08-08  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-220722-0001  |  GigaBash                                                     |  2022-07-22  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220720-0003  |  Are You Smarter Than A 5th Grader                            |  2022-07-20  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-220720-0002  |  Tyrant's Blessing                                            |  2022-07-20  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220720-0001  |  Endling - Extinction is Forever                              |  2022-07-20  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220718-0001  |  Monster Tribe                                                |  2022-07-18  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220718-0002  |  Retreat to Enen                                              |  2022-07-18  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-220713-0001  |  Arcadegeddon                                                 |  2022-07-13  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220712-0001  |  Summum Aeterna                                               |  2022-07-12  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-220711-0002  |  Somerville                                                   |  2022-07-11  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220711-0001  |  Shop Titans                                                  |  2022-07-11  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220704-0002  |  Deliver Us Mars                                              |  2022-07-04  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-220704-0003  |  Cook, Serve, Delicious! 3?!                                  |  2022-07-04  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220704-0004  |  Cook, Serve, Delicious! 2!!                                  |  2022-07-04  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220704-0001  |  Lawn Mowning Simulator                                       |  2022-07-04  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-220630-0001  |  Symphony of War: The Nephilim Saga                           |  2022-06-30  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-220630-0012  |  They Are Coming                                              |  2022-06-30  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-220630-0010  |  One More Island                                              |  2022-06-30  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220630-0011  |  Coromon                                                      |  2022-06-30  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-220630-0006  |  Anuchard                                                     |  2022-06-30  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-220630-0007  |  Cat Cafe Manager                                             |  2022-06-30  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-220630-0003  |  Nibiru                                                       |  2022-06-30  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-220630-0009  |  Clouzy!                                                      |  2022-06-30  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-220630-0008  |  Outerverse                                                   |  2022-06-30  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-220630-0013  |  To The Rescue!                                               |  2022-06-30  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-220630-0004  |  Dark Deity                                                   |  2022-06-30  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220627-0001  |  The Legend of Heroes: Trails from Zero                       |  2022-06-27  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-220627-0002  |  Wonder Boy: The Dragon's Trap                                |  2022-06-27  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220624-0001  |  Disgaea 6 Complete                                           |  2022-06-24  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-220612-0001  |  Century: Age of Ashes                                        |  2022-06-12  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-220609-0003  |  Ravenlok                                                     |  2022-06-09  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220609-0001  |  PC Building Simulator 2                                      |  2022-06-09  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-220609-0002  |  A Game Of Thrones: The Board Game Digital Edition            |  2022-06-09  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220608-0001  |  Ballads of Hongye                                            |  2022-06-08  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220608-0003  |  F1® Manager 2022                                             |  2022-06-08  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220608-0002  |  Aegis Descent                                                |  2022-06-08  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220523-0001  |  Warhammer 40,000: Shootas, Blood & Teef                      |  2022-05-23  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220509-0002  |  Rogue Spirit                                                 |  2022-05-09  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220509-0001  |  Silt                                                         |  2022-05-09  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220429-0001  |  Dog Duty                                                     |  2022-04-29  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-220429-0002  |  Out of the Park Baseball 23                                  |  2022-04-29  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-220428-0001  |  Paradigm                                                     |  2022-04-28  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-220426-0001  |  Void Tyrant                                                  |  2022-04-26  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220425-0001  |  Car Mechanic Simulator 2018                                  |  2022-04-25  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-220425-0002  |  Terraforming Mars                                            |  2022-04-25  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220425-0003  |  Trigon: Space Story                                          |  2022-04-25  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-220408-0002  |  Lab Rat                                                      |  2022-04-08  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220330-0001  |  Imagine Earth                                                |  2022-03-30  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-220324-0001  |  Warpips                                                      |  2022-03-24  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-220324-0002  |  Riverbond                                                    |  2022-03-24  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220317-0003  |  Airline Tycoon Deluxe                                        |  2022-03-17  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-220317-0005  |  Aces of the Luftwaffe - Squadron                             |  2022-03-17  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220317-0002  |  Kombinera                                                    |  2022-03-17  |  /Images/grade_icon/rating_all.gif
+EPIC-SP-220317-0001  |  Rogue Legacy 2                                               |  2022-03-17  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220317-0001  |  Rogue Legacy                                                 |  2022-03-17  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220310-0002  |  Pile Up! Box by Box                                          |  2022-03-10  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-220310-0004  |  Ghostwire: Tokyo - Prelude                                   |  2022-03-10  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220310-0003  |  Insurmountable                                               |  2022-03-10  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220310-0001  |  Iratus: Lord of the Dead                                     |  2022-03-10  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-220307-0001  |  El Hijo – A Wild West Tale                                   |  2022-03-07  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220302-0001  |  Centipede: Recharged                                         |  2022-03-02  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-220221-0002  |  Eiyuden Chronicle: Rising                                    |  2022-02-21  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220221-0001  |  The Suicide of Rachel Foster                                 |  2022-02-21  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-220214-0001  |  Submerged                                                    |  2022-02-14  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-220210-0001  |  HordeCore                                                    |  2022-02-10  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220203-0002  |  Submerged: Hidden Depths                                     |  2022-02-03  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220203-0003  |  Doodle God                                                   |  2022-02-03  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-220203-0004  |  Defunct                                                      |  2022-02-03  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-220203-0001  |  Partisans 1941                                               |  2022-02-03  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-220129-0001  |  Wildcat Gun Machine                                          |  2022-01-29  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220129-0003  |  Zombie Rollerz: Pinball Heroes                               |  2022-01-29  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220129-0007  |  FAR: Lone Sails                                              |  2022-01-29  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220129-0002  |  Rainbow Billy: The Curse of the Leviathan                    |  2022-01-29  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-220129-0010  |  Breakout: Recharged                                          |  2022-01-29  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-220129-0008  |  Unrailed!                                                    |  2022-01-29  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-220126-0001  |  Strategic Mind: Blitzkrieg                                   |  2022-01-26  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220126-0002  |  Strategic Mind: Spectre of Communism                         |  2022-01-26  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220126-0003  |  Timberborn                                                   |  2022-01-26  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220125-0001  |  THE KING OF FIGHTERS XV                                      |  2022-01-25  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-220124-0001  |  Pupperazzi                                                   |  2022-01-24  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220121-0001  |  Adam's Venture: Origins                                      |  2022-01-21  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220121-0005  |  DAEMON X MACHINA                                             |  2022-01-21  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-220108-0001  |  Neko Ghost, Jump!                                            |  2022-01-08  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-211231-0002  |  Sifu                                                         |  2021-12-31  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-211231-0001  |  Alchemist Adventure                                          |  2021-12-31  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-211216-0002  |  Townsmen - A Kingdom Rebuilt                                 |  2021-12-16  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-211216-0001  |  Sky Fleet                                                    |  2021-12-16  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-211214-0002  |  Scarf                                                        |  2021-12-14  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-211214-0001  |  Unspottable                                                  |  2021-12-14  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-211201-0001  |  STORY OF SEASONS: Friends of Mineral Town                    |  2021-12-01  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-211125-0003  |  Mages of Mystralia                                           |  2021-11-25  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-211125-0002  |  Aspire Ina's Tale                                            |  2021-11-25  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-211125-0001  |  Syberia - The World Before                                   |  2021-11-25  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-211117-0003  |  The Captain                                                  |  2021-11-17  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-211117-0001  |  Farming Simulator 22                                         |  2021-11-17  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-211117-0002  |  Dumpy and Bumpy                                              |  2021-11-17  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-211117-0004  |  Ranch Simulator                                              |  2021-11-17  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-211115-0001  |  Solar Ash                                                    |  2021-11-15  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-211112-0004  |  LOVE 3                                                       |  2021-11-12  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-211112-0003  |  KID A MNESIA EXHIBITION                                      |  2021-11-12  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-211112-0002  |  Hammerting                                                   |  2021-11-12  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-211112-0005  |  Neon Abyss                                                   |  2021-11-12  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-211112-0006  |  Moving Out                                                   |  2021-11-12  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-211112-0007  |  The Sojourn                                                  |  2021-11-12  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-211112-0001  |  King of Retail                                               |  2021-11-12  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-211110-0002  |  Guild of Dungeoneering                                       |  2021-11-10  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-211110-0001  |  Lifeslide                                                    |  2021-11-10  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-211108-0002  |  Demon Turf                                                   |  2021-11-08  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-211108-0001  |  ChromaGun                                                    |  2021-11-08  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-211103-0002  |  Never Alone                                                  |  2021-11-03  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-211103-0001  |  Franchise Hockey Manager 8                                   |  2021-11-03  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-211101-0001  |  Dark Deception                                               |  2021-11-01  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-211028-0002  |  The Darkside Detective                                       |  2021-10-28  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-211028-0003  |  The Darkside Detective: A Fumble in the Dark                 |  2021-10-28  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-211028-0001  |  Darkest Dungeon II                                           |  2021-10-28  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-211026-0001  |  Defend the Rook                                              |  2021-10-26  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-211021-0003  |  Basingstoke                                                  |  2021-10-21  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-211021-0001  |  JARS                                                         |  2021-10-21  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-211021-0002  |  The Long Dark                                                |  2021-10-21  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-211014-0001  |  VHS                                                          |  2021-10-14  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-211014-0004  |  F.I.S.T. Forged In Shadow Torch                              |  2021-10-14  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-211014-0003  |  Disciples: Liberation                                        |  2021-10-14  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-211014-0002  |  Sands of Aura                                                |  2021-10-14  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-211013-0001  |  Worlds Of The Future                                         |  2021-10-13  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-211013-0003  |  Selfloss                                                     |  2021-10-13  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-211013-0005  |  Frontier Hunter: Erza’s Wheel of Fortune                     |  2021-10-13  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-211013-0002  |  Rhythm Sprout                                                |  2021-10-13  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-211013-0004  |  Time Loader                                                  |  2021-10-13  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-211013-0006  |  War Mongrels                                                 |  2021-10-13  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-211013-0007  |  Good Company                                                 |  2021-10-13  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-211013-0008  |  TOHU                                                         |  2021-10-13  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-211013-0009  |  Aeon Must DIe!                                               |  2021-10-13  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-211012-0002  |  Black Widow: Recharged                                       |  2021-10-12  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-211012-0003  |  Godstrike                                                    |  2021-10-12  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-211012-0001  |  Ruin Raiders                                                 |  2021-10-12  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-211005-0007  |  CHORUS                                                       |  2021-10-05  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-211005-0004  |  HammerHelm                                                   |  2021-10-05  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-211005-0006  |  DARQ: Complete Edition                                       |  2021-10-05  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-211005-0008  |  Guardians of Hyelore                                         |  2021-10-05  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-211005-0001  |  A Juggler's Tale                                             |  2021-10-05  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-211005-0005  |  2064: Read Only Memories                                     |  2021-10-05  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210928-0002  |  INDUSTRIA                                                    |  2021-09-28  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210928-0001  |  Universe Sandbox                                             |  2021-09-28  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210927-0001  |  PC Building Simulator                                        |  2021-09-27  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210927-0002  |  Mind Scanners                                                |  2021-09-27  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210922-0001  |  Out of the Park Baseball 22                                  |  2021-09-22  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210921-0001  |  Blast Brigade vs. the Evil Legion of Dr. Cread               |  2021-09-21  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210918-0001  |  Beast Breaker                                                |  2021-09-18  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210917-0002  |  Rocco's Island: Ring to End the Pain                         |  2021-09-17  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210917-0003  |  Teacup                                                       |  2021-09-17  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210917-0001  |  Niche - a genetics survival game                             |  2021-09-17  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210914-0004  |  Sherlock Holmes Chapter One                                  |  2021-09-14  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210914-0001  |  Fisti-Fluffs                                                 |  2021-09-14  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210914-0005  |  Buddy Simulator 1984                                         |  2021-09-14  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210914-0002  |  Everhood                                                     |  2021-09-14  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210914-0003  |  Bud Spencer & Terence Hill - Slaps And Beans                 |  2021-09-14  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210913-0002  |  Planescape: Torment: Enhanced Edition                        |  2021-09-13  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210913-0003  |  Icewind Dale: Enhanced Edition                               |  2021-09-13  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210913-0004  |  Baldur's Gate: Enhanced Edition                              |  2021-09-13  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210913-0005  |  Baldur's Gate II: Enhanced Edition                           |  2021-09-13  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210913-0001  |  Kena: Bridge of Spirits                                      |  2021-09-13  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210908-0002  |  Alan Wake Remastered                                         |  2021-09-08  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210908-0001  |  The Eternal Cylinder                                         |  2021-09-08  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210906-0003  |  Blazing Beaks                                                |  2021-09-06  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210906-0004  |  TOEM                                                         |  2021-09-06  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210906-0002  |  Legend of Grimrock2                                          |  2021-09-06  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210906-0001  |  Legend of Grimrock                                           |  2021-09-06  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210901-0001  |  Golf Club Wasteland                                          |  2021-09-01  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210901-0002  |  Sky Racket                                                   |  2021-09-01  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210828-0001  |  Flat Heroes                                                  |  2021-08-28  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210826-0001  |  Spacelines from the Far Out                                  |  2021-08-26  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210824-0001  |  Redout: Solar Challenge                                      |  2021-08-24  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210824-0002  |  The Big Con                                                  |  2021-08-24  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210823-0006  |  Kraken Academy!!                                             |  2021-08-23  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210823-0005  |  Tinytopia                                                    |  2021-08-23  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210823-0003  |  Pato Box                                                     |  2021-08-23  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210823-0002  |  Going Medieval                                               |  2021-08-23  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210823-0004  |  Sheltered                                                    |  2021-08-23  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210819-0001  |  JETT : The Far Shore                                         |  2021-08-19  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210819-0002  |  Aven Colony                                                  |  2021-08-19  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210819-0003  |  Eastward                                                     |  2021-08-19  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210818-0001  |  The Plane Effect                                             |  2021-08-18  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210818-0002  |  Automachef                                                   |  2021-08-18  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210817-0001  |  Critadel                                                     |  2021-08-17  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210817-0002  |  Druidstone: The Secret of the Menhir Forest                  |  2021-08-17  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210811-0001  |  Spectacular Sparky                                           |  2021-08-11  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210811-0003  |  The Magnificent Trufflepigs                                  |  2021-08-11  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210811-0002  |  The Last Show Of Mr. Chardish                                |  2021-08-11  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210810-0001  |  Fort Triumph                                                 |  2021-08-10  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210809-0004  |  Behind the Frame: The Finest Scenery                         |  2021-08-09  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210809-0005  |  Paradise Lost                                                |  2021-08-09  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210809-0001  |  Garden Story                                                 |  2021-08-09  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210809-0003  |  Atrio: The Dark Wild                                         |  2021-08-09  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210809-0002  |  Neon City Riders                                             |  2021-08-09  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210804-0002  |  Boyfriend Dungeon                                            |  2021-08-04  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210804-0001  |  Black Book                                                   |  2021-08-04  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210802-0001  |  Smalland                                                     |  2021-08-02  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210802-0003  |  The Last Friend                                              |  2021-08-02  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210802-0002  |  Jetboard Joust                                               |  2021-08-02  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210728-0001  |  Pathfinder: Wrath of the Righteous                           |  2021-07-28  |  /Images/grade_icon/rating_18.gif 
+EPIC-SG-210728-0002  |  Blaster Master Zero 3                                        |  2021-07-28  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210728-0004  |  Dreamscaper                                                  |  2021-07-28  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210728-0003  |  Deepest Chamber                                              |  2021-07-28  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210726-0002  |  No Longer Home                                               |  2021-07-26  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210726-0001  |  Unbound: Worlds Apart                                        |  2021-07-26  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210721-0001  |  Tandem:  A Tale of Shadows                                   |  2021-07-21  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210721-0002  |  Crystal Crisis                                               |  2021-07-21  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210719-0001  |  Voidtrain                                                    |  2021-07-19  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210714-0001  |  Dark Future: Blood Red States                                |  2021-07-14  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210712-0001  |  Against the Storm                                            |  2021-07-12  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210712-0002  |  The Tenants                                                  |  2021-07-12  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210709-0004  |  OMNO                                                         |  2021-07-09  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210709-0001  |  Dream Engines: Nomad Cities                                  |  2021-07-09  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210709-0003  |  Before Your Eyes                                             |  2021-07-09  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210709-0002  |  Train Sim World® 2                                           |  2021-07-09  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210627-0001  |  Adios                                                        |  2021-06-27  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210624-0005  |  Imp of The Sun                                               |  2021-06-24  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210624-0004  |  Fuga: Melodies of Steel                                      |  2021-06-24  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210624-0001  |  Ys IX: Monstrum Nox                                          |  2021-06-24  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210624-0003  |  GRIME                                                        |  2021-06-24  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210624-0002  |  Obduction                                                    |  2021-06-24  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210623-0002  |  theHunter: Call of the Wild™                                 |  2021-06-23  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210623-0003  |  Mothergunship                                                |  2021-06-23  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210623-0001  |  Sakuna: Of Rice and Ruin                                     |  2021-06-23  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210623-0004  |  Beasts of Maravilla Island                                   |  2021-06-23  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210623-0005  |  while True: learn()                                          |  2021-06-23  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210616-0001  |  Doctor Who: The Lonely Assassins                             |  2021-06-16  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210615-0002  |  Out of Line                                                  |  2021-06-15  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210615-0001  |  Mars Horizon                                                 |  2021-06-15  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210615-0003  |  Doomsday Vault                                               |  2021-06-15  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210611-0002  |  Galactic Civilizations IV                                    |  2021-06-11  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210611-0001  |  Trüberbrook                                                  |  2021-06-11  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210611-0004  |  Real Farm – Gold Edition                                     |  2021-06-11  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210611-0003  |  Supraland                                                    |  2021-06-11  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210609-0002  |  Genshin Impact                                               |  2021-06-09  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210609-0003  |  Ancient Enemy                                                |  2021-06-09  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210607-0001  |  Overcooked! 2                                                |  2021-06-07  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210602-0001  |  NeuroNet: Mendax Proxy                                       |  2021-06-02  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210531-0001  |  The Chameleon                                                |  2021-05-31  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210531-0003  |  Crash Drive 3                                                |  2021-05-31  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210531-0005  |  The Spectrum Retreat                                         |  2021-05-31  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210531-0004  |  Ironcast                                                     |  2021-05-31  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210531-0006  |  Luna’s Fishing Garden                                        |  2021-05-31  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210531-0002  |  Horizon Chase Turbo                                          |  2021-05-31  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210528-0001  |  Air Missions: Hind                                           |  2021-05-28  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210528-0002  |  Truck Driver(Soedesco Studios)                               |  2021-05-28  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210526-0001  |  Timelie                                                      |  2021-05-26  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210524-0001  |  LEGO® Builder's Journey                                      |  2021-05-24  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210524-0005  |  Subnautica: Below Zero                                       |  2021-05-24  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210524-0003  |  Tennis Manager 2021                                          |  2021-05-24  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210524-0002  |  Suzerain                                                     |  2021-05-24  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210520-0002  |  Aeterna Noctis                                               |  2021-05-20  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210520-0004  |  Unexplored 2: The Wayfarer’s Legacy                          |  2021-05-20  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210520-0003  |  Grindstone                                                   |  2021-05-20  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210517-0001  |  ARCADE GEDDON                                                |  2021-05-17  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210512-0001  |  DEMON’S TILT                                                 |  2021-05-12  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210511-0001  |  Sockventure                                                  |  2021-05-11  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210511-0002  |  The Hand of Merlin                                           |  2021-05-11  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210510-0002  |  Slipways                                                     |  2021-05-10  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210510-0003  |  Stonefly                                                     |  2021-05-10  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210510-0001  |  Siege Survival: Gloria Victis                                |  2021-05-10  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210506-0002  |  Tunche                                                       |  2021-05-06  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210506-0001  |  The Lion’s Song                                              |  2021-05-06  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210506-0003  |  Pine                                                         |  2021-05-06  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210429-0001  |  Hell is Other Demons                                         |  2021-04-29  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210429-0002  |  The Architect: Paris                                         |  2021-04-29  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210429-0003  |  Pascal’s Wager: Definitive Edition                           |  2021-04-29  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210428-0001  |  SuchArt                                                      |  2021-04-28  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210422-0002  |  Warhammer 40,000: Battlesector                               |  2021-04-22  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210422-0005  |  Prehistoric Kingdom                                          |  2021-04-22  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210422-0001  |  Aerial_Knight’s Never Yield                                  |  2021-04-22  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210422-0004  |  Skate City                                                   |  2021-04-22  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210422-0003  |  Lumberjack's Dynasty                                         |  2021-04-22  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210420-0002  |  Cris Tales                                                   |  2021-04-20  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210420-0003  |  Unruly Heroes                                                |  2021-04-20  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210420-0001  |  MotoGP21                                                     |  2021-04-20  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210419-0002  |  Narita Boy                                                   |  2021-04-19  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210419-0001  |  HitchHiker                                                   |  2021-04-19  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210416-0002  |  House Flipper                                                |  2021-04-16  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210416-0005  |  R-Type Final 2                                               |  2021-04-16  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210416-0003  |  Spelldrifter                                                 |  2021-04-16  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210416-0004  |  Lost Words: Beyond the Page                                  |  2021-04-16  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210416-0006  |  Idle Champions of the Forgotten Realms                       |  2021-04-16  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210414-0001  |  Merchant of the Skies                                        |  2021-04-14  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210414-0002  |  Scarlet Hood and the Wicked Wood                             |  2021-04-14  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210414-0003  |  The Fabled Woods                                             |  2021-04-14  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210408-0001  |  The Legend of Heroes: Trails of Cold Steel IV                |  2021-04-08  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210408-0002  |  Deponia: The Complete Journey                                |  2021-04-08  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210407-0002  |  First Class Trouble                                          |  2021-04-07  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210407-0004  |  Golazo                                                       |  2021-04-07  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210407-0003  |  The Flower Collectors                                        |  2021-04-07  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210407-0001  |  The First Tree                                               |  2021-04-07  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210405-0002  |  Knight Squad 2                                               |  2021-04-05  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210405-0001  |  Cozy Grove                                                   |  2021-04-05  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210401-0001  |  Wanna Survive                                                |  2021-04-01  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210401-0002  |  3 out of 10: Season Two                                      |  2021-04-01  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210331-0002  |  Through the Darkest of Times                                 |  2021-03-31  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210331-0001  |  Neighbours back From Hell                                    |  2021-03-31  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210329-0002  |  Claire de Lune                                               |  2021-03-29  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210329-0001  |  KINGDOM HEARTS HD 2.8 Final Chapter Prologue                 |  2021-03-29  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210329-0003  |  KINGDOM HEARTS -HD 1.5+2.5 ReMIX                             |  2021-03-29  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210325-0001  |  Speed Brawl                                                  |  2021-03-25  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210324-0001  |  Creature in the Well                                         |  2021-03-24  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210319-0001  |  Murder by Numbers                                            |  2021-03-19  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210318-0004  |  Rogue State Revolution                                       |  2021-03-18  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210318-0001  |  Geneforge 1 – Mutagen                                        |  2021-03-18  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210318-0002  |  Empires of the Undergrowth                                   |  2021-03-18  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210316-0002  |  Tales of the Neon Sea                                        |  2021-03-16  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210316-0004  |  Primordials: Battle of Gods                                  |  2021-03-16  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210316-0003  |  Down in Bermuda                                              |  2021-03-16  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210315-0004  |  Hundred Days – Winemaking Simulator                          |  2021-03-15  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210315-0003  |  Calico                                                       |  2021-03-15  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210315-0001  |  Evan’s Remains                                               |  2021-03-15  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210315-0002  |  Aground                                                      |  2021-03-15  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210310-0001  |  The Fall                                                     |  2021-03-10  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210310-0002  |  ARK: Survival Evolved                                        |  2021-03-10  |  /Images/grade_icon/rating_18.gif 
+EPIC-SG-210308-0001  |  Pathfinder:Kingmaker                                         |  2021-03-08  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210305-0001  |  The Uncertain: Light At The End                              |  2021-03-05  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210305-0002  |  The Uncertain: Last Quite Day                                |  2021-03-05  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210303-0001  |  Saviors of Sapphire Wings / Stranger of Sword City Revisted  |  2021-03-03  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210303-0002  |  Scrapnaut                                                    |  2021-03-03  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210225-0001  |  Gravewood High                                               |  2021-02-25  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210225-0002  |  Disaster Report 4                                            |  2021-02-25  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210223-0001  |  Bridge Constructor: The Walking Dead                         |  2021-02-23  |  /Images/grade_icon/rating_18.gif 
+EPIC-SG-210222-0003  |  Bonfire Peaks                                                |  2021-02-22  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210222-0001  |  Cosmic Express                                               |  2021-02-22  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210222-0002  |  Sokobond                                                     |  2021-02-22  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210218-0002  |  A Good Snowman is Hard to Build                              |  2021-02-18  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210218-0001  |  A Monster’s Expedition (Through Puzzling Exhibitions)        |  2021-02-18  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210217-0001  |  Genesis Noir                                                 |  2021-02-17  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210217-0002  |  The Life and Suffering of Sir Brante                         |  2021-02-17  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210216-0001  |  Sunless Sea                                                  |  2021-02-16  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210211-0001  |  RemiLore: Lost Girl in the Lands of Lore                     |  2021-02-11  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210210-0001  |  Absolute Drift                                               |  2021-02-10  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210209-0001  |  Democracy 4                                                  |  2021-02-09  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210204-0008  |  Outer Wilds                                                  |  2021-02-04  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210204-0002  |  Wattam                                                       |  2021-02-04  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210204-0005  |  Journey                                                      |  2021-02-04  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210204-0004  |  Flower                                                       |  2021-02-04  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210204-0003  |  Ashen                                                        |  2021-02-04  |  /Images/grade_icon/rating_18.gif 
+EPIC-SG-210204-0001  |  Donut County                                                 |  2021-02-04  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210204-0007  |  What Remains of Edith Finch                                  |  2021-02-04  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210204-0006  |  The Unfinished Swan                                          |  2021-02-04  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210201-0001  |  I Am Dead                                                    |  2021-02-01  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210201-0002  |  Oddworld: Soulstorm                                          |  2021-02-01  |  /Images/grade_icon/rating_15.gif 
+EPIC-SG-210201-0003  |  Gorogoa                                                      |  2021-02-01  |  /Images/grade_icon/rating_all.gif
+EPIC-SG-210128-0001  |  Dandara                                                      |  2021-01-28  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210125-0001  |  Gods Will Fall                                               |  2021-01-25  |  /Images/grade_icon/rating_18.gif 
+EPIC-SG-210125-0002  |  The Pathless                                                 |  2021-01-25  |  /Images/grade_icon/rating_12.gif 
+EPIC-SG-210119-0001  |  Monkey Barrels                                               |  2021-01-19  |  /Images/grade_icon/rating_all.gif
