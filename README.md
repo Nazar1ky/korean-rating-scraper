@@ -17,7 +17,7 @@
 
 ## Usage:
 
-1. Download or clone repository using `git clone https://github.com/Nazar1kyr/korean-rating-scraper/`
+1. Download or clone repository using `git clone https://github.com/Nazar1ky/korean-rating-scraper/`
 2. Install the requirements.
 
     ```
