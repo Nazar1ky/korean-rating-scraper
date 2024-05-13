@@ -1,11 +1,12 @@
 import json
+from pathlib import Path
 
 import requests
 from bs4 import BeautifulSoup
 
 
 class Scraper:
-    def __init__(self):
+    def __init__(self) -> None:
         self.session = requests.session()
         headers = {
             "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
@@ -31,19 +32,23 @@ class Scraper:
     # Reference: https://stackoverflow.com/a/73239931
     def get_hidden_input(self, content):
         tags = {}
-        soup = BeautifulSoup(content, "html.parser")
-        hidden_tags = soup.find_all("input", type="hidden")
+        hidden_tags = BeautifulSoup(content, "html.parser").find_all(
+            "input",
+            type="hidden",
+        )
 
         for tag in hidden_tags:
             tags[tag.get("name")] = tag.get("value")
 
         return tags
 
-    def get_form_args(self):
-        response = self.session.get("https://www.grac.or.kr/Statistics/SelfRateGameStatistics.aspx")
+    def get_form_args(self) -> None:
+        response = self.session.get(
+            "https://www.grac.or.kr/Statistics/SelfRateGameStatistics.aspx",
+        )
         self.view_state = self.get_hidden_input(response.content)["__VIEWSTATE"]
 
-    def get_data(self):
+    def get_data(self) -> None:
         total_data = []
         current_page = 0
         pages = 0
@@ -59,15 +64,30 @@ class Scraper:
                 "ctl00$ContentHolder$tbGameTitle": (None, ""),
                 "ctl00$ContentHolder$ddlGrade": (None, ""),
                 "ctl00$ContentHolder$tbRatingNbr": (None, "EPIC"),
-                "ctl00$ContentHolder$CalendarPicker$txtCalStartDate": (None, "2000-01-01"),
-                "ctl00$ContentHolder$CalendarPicker$txtCalEndDate": (None, "2024-05-12"),
-                "ctl00$ContentHolder$CalendarPicker$ajxMaskStartDate_ClientState": (None, ""),
-                "ctl00$ContentHolder$CalendarPicker$ajxMaskEndDate_ClientState": (None, ""),
+                "ctl00$ContentHolder$CalendarPicker$txtCalStartDate": (
+                    None,
+                    "2000-01-01",
+                ),
+                "ctl00$ContentHolder$CalendarPicker$txtCalEndDate": (
+                    None,
+                    "2024-05-12",
+                ),
+                "ctl00$ContentHolder$CalendarPicker$ajxMaskStartDate_ClientState": (
+                    None,
+                    "",
+                ),
+                "ctl00$ContentHolder$CalendarPicker$ajxMaskEndDate_ClientState": (
+                    None,
+                    "",
+                ),
                 "ctl00$ContentHolder$Evaluation$rbSatisfy4": (None, "rbSatisfy4"),
                 "ctl00$ContentHolder$Evaluation$taContents": (None, ""),
             }
 
-            response = self.session.post("https://www.grac.or.kr/Statistics/SelfRateGameStatistics.aspx", files=files)
+            response = self.session.post(
+                "https://www.grac.or.kr/Statistics/SelfRateGameStatistics.aspx",
+                files=files,
+            )
 
             # self.save_content(response.content)
             data, pages = self.parse_page(response.content)
@@ -78,8 +98,8 @@ class Scraper:
         self.save_data_to_json(total_data)
         self.save_data_to_txt(total_data)
 
-    def save_content(self, content):
-        with open("index.html", "wb") as file:
+    def save_content(self, content) -> None:
+        with Path("index.html").open("wb") as file:
             file.write(content)
 
     def parse_page(self, content):
@@ -110,16 +130,18 @@ class Scraper:
 
             data.append(product_data)
 
-        pagination = soup.find("div", class_ = "pagination")
-        page_count = int(pagination.find_all("a")[-1].get("href").split("'")[3].split("'")[0])
+        pagination = soup.find("div", class_="pagination")
+        page_count = int(
+            pagination.find_all("a")[-1].get("href").split("'")[3].split("'")[0],
+        )
 
         return data, page_count
 
-    def save_data_to_json(self, data):
-        with open("data.json", "w", encoding="utf-8") as file:
+    def save_data_to_json(self, data) -> None:
+        with Path("data.json").open("w", encoding="utf-8") as file:
             json.dump(data, file, ensure_ascii=False, indent=4)
 
-    def save_data_to_txt(self, data):
+    def save_data_to_txt(self, data) -> None:
         text = ""
 
         column1 = max([len(product["product_number"]) for product in data])
@@ -136,8 +158,9 @@ class Scraper:
 
             text += f"{product["product_rating_img"]:<{column4}}\n"
 
-        with open("data.txt", "w", encoding="utf-8") as file:
+        with Path("data.txt").open("w", encoding="utf-8") as file:
             file.write(text)
+
 
 if __name__ == "__main__":
     app = Scraper()
