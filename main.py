@@ -32,7 +32,7 @@ class Scraper:
     # Reference: https://stackoverflow.com/a/73239931
     def get_hidden_input(self, content):
         tags = {}
-        hidden_tags = BeautifulSoup(content, "html.parser").find_all(
+        hidden_tags = BeautifulSoup(content, "lxml").find_all(
             "input",
             type="hidden",
         )
