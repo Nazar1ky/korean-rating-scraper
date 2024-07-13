@@ -1,38 +1,89 @@
 import json
+from datetime import UTC, datetime
 from pathlib import Path
 
 import requests
 from bs4 import BeautifulSoup
 
+from files import Files
+
+WEBSITE = "https://www.grac.or.kr/Statistics/SelfRateGameStatistics.aspx"
 
 class Scraper:
     def __init__(self) -> None:
-        self.session = requests.session()
-        headers = {
+        self._session = requests.session()
+
+        self._session.headers.update({
             "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "uk-UA,uk;q=0.9",
-            "Cache-Control": "max-age=0",
-            "Connection": "keep-alive",
-            "Host": "www.grac.or.kr",
-            "Origin": "https://www.grac.or.kr",
-            "Referer": "https://www.grac.or.kr/Statistics/SelfRateGameStatistics.aspx",
-            "Sec-Ch-Ua": '"Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"',
-            "Sec-Ch-Ua-Mobile": "?0",
-            "Sec-Ch-Ua-Platform": '"Windows"',
-            "Sec-Fetch-Dest": "document",
-            "Sec-Fetch-Mode": "navigate",
-            "Sec-Fetch-Site": "same-origin",
-            "Sec-Fetch-User": "?1",
-            "Upgrade-Insecure-Requests": "1",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-        }
-        self.session.headers.update(headers)
+        })
+
+    def get_data(self, rating: str = ""):
+        files = Files(
+            rating=rating,
+            start_date="2000-01-01",
+            end_date=datetime.now(tz=UTC).strftime("%Y-%m-%d"),
+        )
+
+        print("Requesting pages and view_state...")
+
+        data_soup = self.get_page_soup(files.get_files())
+
+        page_count = self.get_page_count(data_soup)
+        view_state = self.get_view_state(data_soup)
+
+        files.view_state = view_state
+
+        print(f"Pages: {page_count}")
+
+        data = []
+
+        for page in range(page_count):
+            print(f"Processing {page}/{page_count}")
+
+            files.page = str(page)
+
+            soup = self.get_page_soup(files.get_files())
+
+            data.extend(self.parse_page(soup))
+
+        return data
+
+    def get_page_soup(self, files: dict | None = None) -> BeautifulSoup:
+        response = self._session.post(WEBSITE, files=files)
+
+        soup = BeautifulSoup(response.text, "lxml")
+
+        return soup
+
+    def get_page_count(self, soup: BeautifulSoup) -> int:
+        pagination = soup.find("div", class_="pagination")
+
+        if not pagination:
+            raise RuntimeError("Pagination not founded")
+
+        buttons = pagination.find_all("a")
+
+        if not buttons:
+            raise RuntimeError(f"Buttons not founded in pagination: {pagination}")
+
+        href = buttons[-1].get("href")
+
+        if not href:
+            raise RuntimeError(f"In button not founded href. Button: {buttons[-1]} Pagination: {pagination}")
+
+        # Example how href look: javascript:__doPostBack('ctl00$ContentHolder$listPager','83')
+        page_count = int(
+            href.split("'")[-2].split("'")[0],
+        )
+
+        return page_count
 
     # Reference: https://stackoverflow.com/a/73239931
-    def get_hidden_input(self, content):
+    def get_hidden_input(self, soup: BeautifulSoup) -> dict:
         tags = {}
-        hidden_tags = BeautifulSoup(content, "lxml").find_all(
+
+        hidden_tags = soup.find_all(
             "input",
             type="hidden",
         )
@@ -42,74 +93,19 @@ class Scraper:
 
         return tags
 
-    def get_form_args(self) -> None:
-        response = self.session.get(
-            "https://www.grac.or.kr/Statistics/SelfRateGameStatistics.aspx",
-        )
-        self.view_state = self.get_hidden_input(response.content)["__VIEWSTATE"]
+    def get_view_state(self, soup: BeautifulSoup) -> str:
+        hidden_inputs = self.get_hidden_input(soup)
 
-    def get_data(self) -> None:
-        total_data = []
-        current_page = 0
-        pages = 0
+        if not hidden_inputs.get("__VIEWSTATE"):
+            raise KeyError(f"Can't find __VIEWSTATE in {hidden_inputs}")
 
-        while current_page <= pages:
-            print(f"Working on {current_page}/{pages}")
+        return hidden_inputs["__VIEWSTATE"]
 
-            files = {
-                "__EVENTTARGET": (None, "ctl00$ContentHolder$listPager"),
-                "__EVENTARGUMENT": (None, str(current_page)),
-                "__VIEWSTATE": (None, self.view_state),
-                "ctl00$totalSearch": (None, ""),
-                "ctl00$ContentHolder$tbGameTitle": (None, ""),
-                "ctl00$ContentHolder$ddlGrade": (None, ""),
-                "ctl00$ContentHolder$tbRatingNbr": (None, "EPIC"),
-                "ctl00$ContentHolder$CalendarPicker$txtCalStartDate": (
-                    None,
-                    "2000-01-01",
-                ),
-                "ctl00$ContentHolder$CalendarPicker$txtCalEndDate": (
-                    None,
-                    "2024-05-12",
-                ),
-                "ctl00$ContentHolder$CalendarPicker$ajxMaskStartDate_ClientState": (
-                    None,
-                    "",
-                ),
-                "ctl00$ContentHolder$CalendarPicker$ajxMaskEndDate_ClientState": (
-                    None,
-                    "",
-                ),
-                "ctl00$ContentHolder$Evaluation$rbSatisfy4": (None, "rbSatisfy4"),
-                "ctl00$ContentHolder$Evaluation$taContents": (None, ""),
-            }
-
-            response = self.session.post(
-                "https://www.grac.or.kr/Statistics/SelfRateGameStatistics.aspx",
-                files=files,
-            )
-
-            # self.save_content(response.content)
-            data, pages = self.parse_page(response.content)
-            total_data.extend(data)
-
-            current_page += 1
-
-        self.save_data_to_json(total_data)
-        self.save_data_to_txt(total_data)
-
-    def save_content(self, content) -> None:
-        with Path("index.html").open("wb") as file:
-            file.write(content)
-
-    def parse_page(self, content):
-        soup = BeautifulSoup(content, "lxml")
-
+    def parse_page(self, soup: BeautifulSoup) -> list[dict]:
         products = soup.select("tr[id^=ctl00_ContentHolder_rptGradeDoc]")
 
         if not products:
-            print("No products.")
-            return None
+            raise RuntimeError("No products on page")
 
         data = []
 
@@ -130,39 +126,39 @@ class Scraper:
 
             data.append(product_data)
 
-        pagination = soup.find("div", class_="pagination")
-        page_count = int(
-            pagination.find_all("a")[-1].get("href").split("'")[3].split("'")[0],
-        )
+        return data
 
-        return data, page_count
+def save_data_to_json(filename: str, data: list[dict]) -> None:
+    with Path(f"{filename}.json").open("w", encoding="utf-8") as file:
+        json.dump(data, file, ensure_ascii=False, indent=4)
 
-    def save_data_to_json(self, data) -> None:
-        with Path("data.json").open("w", encoding="utf-8") as file:
-            json.dump(data, file, ensure_ascii=False, indent=4)
+def save_data_to_txt(filename: str, data: list[dict]) -> None:
+    text = []
 
-    def save_data_to_txt(self, data) -> None:
-        text = ""
+    column1 = max([len(product["product_number"]) for product in data])
+    column2 = max([len(product["product_name"]) for product in data])
+    column3 = max([len(product["product_date"]) for product in data])
+    column4 = max([len(product["product_rating_img"]) for product in data])
 
-        column1 = max([len(product["product_number"]) for product in data])
-        column2 = max([len(product["product_name"]) for product in data])
-        column3 = max([len(product["product_date"]) for product in data])
-        column4 = max([len(product["product_rating_img"]) for product in data])
+    separator = "  |  "
 
-        for product in data:
-            text += f"{product["product_number"]:<{column1}}  |  "
+    for product in data:
+        text.append(f"{product["product_number"]:<{column1}}{separator}")
+        text.append(f"{product["product_name"]:<{column2}}{separator}")
+        text.append(f"{product["product_date"]:<{column3}}{separator}")
+        text.append(f"{product["product_rating_img"]:<{column4}}\n")
 
-            text += f"{product["product_name"]:<{column2}}  |  "
+    with Path(f"{filename}.txt").open("w", encoding="utf-8") as file:
+        file.write("".join(text))
 
-            text += f"{product["product_date"]:<{column3}}  |  "
+def main():
+    app = Scraper()
 
-            text += f"{product["product_rating_img"]:<{column4}}\n"
+    # I use EPIC but you can edit to any you want
+    data = app.get_data("epic")
 
-        with Path("data.txt").open("w", encoding="utf-8") as file:
-            file.write(text)
-
+    save_data_to_json("data", data)
+    save_data_to_txt("data", data)
 
 if __name__ == "__main__":
-    app = Scraper()
-    app.get_form_args()
-    app.get_data()
+    main()
