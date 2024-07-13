@@ -157,8 +157,8 @@ def main():
     # I use EPIC but you can edit to any you want
     data = app.get_data("epic")
 
-    save_data_to_json("data", data)
-    save_data_to_txt("data", data)
+    save_data_to_json("data/data", data)
+    save_data_to_txt("data/data", data)
 
 if __name__ == "__main__":
     main()
