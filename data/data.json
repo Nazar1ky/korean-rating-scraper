@@ -1,5 +1,167 @@
 [
     {
+        "product_number": "EPIC-SG-240626-0001",
+        "product_name": "Spirit Castor: A Father's Trust",
+        "product_date": "2024-06-26",
+        "product_rating_img": "/Images/grade_icon/rating_12.gif"
+    },
+    {
+        "product_number": "EPIC-SG-240626-0007",
+        "product_name": "Skies above the Great War",
+        "product_date": "2024-06-26",
+        "product_rating_img": "/Images/grade_icon/rating_15.gif"
+    },
+    {
+        "product_number": "EPIC-SG-240626-0011",
+        "product_name": "MASHUP BROS.",
+        "product_date": "2024-06-26",
+        "product_rating_img": "/Images/grade_icon/rating_12.gif"
+    },
+    {
+        "product_number": "EPIC-SG-240626-0009",
+        "product_name": "The ultimate Math teaching game",
+        "product_date": "2024-06-26",
+        "product_rating_img": "/Images/grade_icon/rating_all.gif"
+    },
+    {
+        "product_number": "EPIC-SG-240626-0010",
+        "product_name": "Agents of ARGUS",
+        "product_date": "2024-06-26",
+        "product_rating_img": "/Images/grade_icon/rating_12.gif"
+    },
+    {
+        "product_number": "EPIC-SG-240626-0012",
+        "product_name": "Dino Hazard: Chronos Blackout",
+        "product_date": "2024-06-26",
+        "product_rating_img": "/Images/grade_icon/rating_12.gif"
+    },
+    {
+        "product_number": "EPIC-SG-240626-0006",
+        "product_name": "Pirates Outlaws",
+        "product_date": "2024-06-26",
+        "product_rating_img": "/Images/grade_icon/rating_15.gif"
+    },
+    {
+        "product_number": "EPIC-SG-240607-0001",
+        "product_name": "ROAD TO EXOTICS",
+        "product_date": "2024-06-07",
+        "product_rating_img": "/Images/grade_icon/rating_all.gif"
+    },
+    {
+        "product_number": "EPIC-SG-240607-0002",
+        "product_name": "LEGO® Builder's Journey",
+        "product_date": "2024-06-07",
+        "product_rating_img": "/Images/grade_icon/rating_all.gif"
+    },
+    {
+        "product_number": "EPIC-SG-240603-0002",
+        "product_name": "Hanoi Puzzles - Flip Match",
+        "product_date": "2024-06-03",
+        "product_rating_img": "/Images/grade_icon/rating_all.gif"
+    },
+    {
+        "product_number": "EPIC-SG-240603-0007",
+        "product_name": "Crumble",
+        "product_date": "2024-06-03",
+        "product_rating_img": "/Images/grade_icon/rating_all.gif"
+    },
+    {
+        "product_number": "EPIC-SG-240603-0005",
+        "product_name": "Colony Defense - Tower Defense",
+        "product_date": "2024-06-03",
+        "product_rating_img": "/Images/grade_icon/rating_12.gif"
+    },
+    {
+        "product_number": "EPIC-SG-240603-0003",
+        "product_name": "Empires of the Undergrowth",
+        "product_date": "2024-06-03",
+        "product_rating_img": "/Images/grade_icon/rating_15.gif"
+    },
+    {
+        "product_number": "EPIC-SG-240528-0001",
+        "product_name": "Trust No One",
+        "product_date": "2024-05-28",
+        "product_rating_img": "/Images/grade_icon/rating_all.gif"
+    },
+    {
+        "product_number": "EPIC-SG-240528-0004",
+        "product_name": "Dofamine",
+        "product_date": "2024-05-28",
+        "product_rating_img": "/Images/grade_icon/rating_all.gif"
+    },
+    {
+        "product_number": "EPIC-SG-240528-0003",
+        "product_name": "Euphoria: Supreme Mechanics",
+        "product_date": "2024-05-28",
+        "product_rating_img": "/Images/grade_icon/rating_all.gif"
+    },
+    {
+        "product_number": "EPIC-SG-240528-0005",
+        "product_name": "Cybernetic Fault",
+        "product_date": "2024-05-28",
+        "product_rating_img": "/Images/grade_icon/rating_12.gif"
+    },
+    {
+        "product_number": "EPIC-SG-240513-0004",
+        "product_name": "Floppy Knights",
+        "product_date": "2024-05-13",
+        "product_rating_img": "/Images/grade_icon/rating_12.gif"
+    },
+    {
+        "product_number": "EPIC-SG-240513-0007",
+        "product_name": "East Defense",
+        "product_date": "2024-05-13",
+        "product_rating_img": "/Images/grade_icon/rating_all.gif"
+    },
+    {
+        "product_number": "EPIC-SG-240513-0002",
+        "product_name": "Whacking Hell!",
+        "product_date": "2024-05-13",
+        "product_rating_img": "/Images/grade_icon/rating_12.gif"
+    },
+    {
+        "product_number": "EPIC-SG-240513-0003",
+        "product_name": "Astraea",
+        "product_date": "2024-05-13",
+        "product_rating_img": "/Images/grade_icon/rating_12.gif"
+    },
+    {
+        "product_number": "EPIC-SG-240513-0001",
+        "product_name": "Neon World Maker",
+        "product_date": "2024-05-13",
+        "product_rating_img": "/Images/grade_icon/rating_all.gif"
+    },
+    {
+        "product_number": "EPIC-SG-240513-0006",
+        "product_name": "Tomb nightmares",
+        "product_date": "2024-05-13",
+        "product_rating_img": "/Images/grade_icon/rating_15.gif"
+    },
+    {
+        "product_number": "EPIC-SG-240513-0008",
+        "product_name": "Djinn - The Forbidden Knowledge",
+        "product_date": "2024-05-13",
+        "product_rating_img": "/Images/grade_icon/rating_15.gif"
+    },
+    {
+        "product_number": "EPIC-SG-240513-0005",
+        "product_name": "Trigger Tennis",
+        "product_date": "2024-05-13",
+        "product_rating_img": "/Images/grade_icon/rating_12.gif"
+    },
+    {
+        "product_number": "EPIC-SG-240507-0001",
+        "product_name": "DOSA: Guardians",
+        "product_date": "2024-05-07",
+        "product_rating_img": "/Images/grade_icon/rating_12.gif"
+    },
+    {
+        "product_number": "EPIC-SG-240507-0007",
+        "product_name": "Colony : Part I The Moon Castle",
+        "product_date": "2024-05-07",
+        "product_rating_img": "/Images/grade_icon/rating_15.gif"
+    },
+    {
         "product_number": "EPIC-SG-240507-0003",
         "product_name": "Love Monster: Arena of Legends",
         "product_date": "2024-05-07",
@@ -30,6 +192,18 @@
         "product_rating_img": "/Images/grade_icon/rating_15.gif"
     },
     {
+        "product_number": "EPIC-SG-240423-0008",
+        "product_name": "Coreborn",
+        "product_date": "2024-04-23",
+        "product_rating_img": "/Images/grade_icon/rating_12.gif"
+    },
+    {
+        "product_number": "EPIC-SG-240423-0001",
+        "product_name": "HAWKED",
+        "product_date": "2024-04-23",
+        "product_rating_img": "/Images/grade_icon/rating_12.gif"
+    },
+    {
         "product_number": "EPIC-SG-240423-0002",
         "product_name": "Oddsparks: An Automation Adventure",
         "product_date": "2024-04-23",
@@ -42,8 +216,32 @@
         "product_rating_img": "/Images/grade_icon/rating_15.gif"
     },
     {
+        "product_number": "EPIC-SG-240408-0004",
+        "product_name": "The End of the Sun",
+        "product_date": "2024-04-08",
+        "product_rating_img": "/Images/grade_icon/rating_15.gif"
+    },
+    {
+        "product_number": "EPIC-SG-240408-0002",
+        "product_name": "Bread & Fred",
+        "product_date": "2024-04-08",
+        "product_rating_img": "/Images/grade_icon/rating_all.gif"
+    },
+    {
+        "product_number": "EPIC-SG-240330-0003",
+        "product_name": "B.I.N.D.",
+        "product_date": "2024-03-30",
+        "product_rating_img": "/Images/grade_icon/rating_12.gif"
+    },
+    {
         "product_number": "EPIC-SG-240330-0011",
         "product_name": "Ship's Cat",
+        "product_date": "2024-03-30",
+        "product_rating_img": "/Images/grade_icon/rating_12.gif"
+    },
+    {
+        "product_number": "EPIC-SG-240330-0004",
+        "product_name": "Unveiling",
         "product_date": "2024-03-30",
         "product_rating_img": "/Images/grade_icon/rating_12.gif"
     },
@@ -52,12 +250,6 @@
         "product_name": "Reliefs The Time of the Lemures",
         "product_date": "2024-03-30",
         "product_rating_img": "/Images/grade_icon/rating_15.gif"
-    },
-    {
-        "product_number": "EPIC-SG-240330-0004",
-        "product_name": "Unveiling",
-        "product_date": "2024-03-30",
-        "product_rating_img": "/Images/grade_icon/rating_12.gif"
     },
     {
         "product_number": "EPIC-SG-240330-0002",
@@ -78,21 +270,27 @@
         "product_rating_img": "/Images/grade_icon/rating_all.gif"
     },
     {
-        "product_number": "EPIC-SG-240330-0009",
-        "product_name": "The Wraith of the Galaxy",
-        "product_date": "2024-03-30",
-        "product_rating_img": "/Images/grade_icon/rating_15.gif"
-    },
-    {
         "product_number": "EPIC-SG-240330-0010",
         "product_name": "Medieval Knight",
         "product_date": "2024-03-30",
         "product_rating_img": "/Images/grade_icon/rating_12.gif"
     },
     {
+        "product_number": "EPIC-SG-240330-0009",
+        "product_name": "The Wraith of the Galaxy",
+        "product_date": "2024-03-30",
+        "product_rating_img": "/Images/grade_icon/rating_15.gif"
+    },
+    {
         "product_number": "EPIC-SG-240315-0002",
         "product_name": "Out of the Park Baseball 25",
         "product_date": "2024-03-15",
+        "product_rating_img": "/Images/grade_icon/rating_all.gif"
+    },
+    {
+        "product_number": "EPIC-SG-240311-0007",
+        "product_name": "Tennis Manager 2024",
+        "product_date": "2024-03-11",
         "product_rating_img": "/Images/grade_icon/rating_all.gif"
     },
     {
@@ -120,14 +318,14 @@
         "product_rating_img": "/Images/grade_icon/rating_12.gif"
     },
     {
-        "product_number": "EPIC-SG-240311-0004",
-        "product_name": "Jusant",
+        "product_number": "EPIC-SG-240311-0009",
+        "product_name": "Witch It",
         "product_date": "2024-03-11",
         "product_rating_img": "/Images/grade_icon/rating_all.gif"
     },
     {
-        "product_number": "EPIC-SG-240311-0009",
-        "product_name": "Witch It",
+        "product_number": "EPIC-SG-240311-0004",
+        "product_name": "Jusant",
         "product_date": "2024-03-11",
         "product_rating_img": "/Images/grade_icon/rating_all.gif"
     },
@@ -138,16 +336,34 @@
         "product_rating_img": "/Images/grade_icon/rating_all.gif"
     },
     {
+        "product_number": "EPIC-SG-240311-0002",
+        "product_name": "Never Synth",
+        "product_date": "2024-03-11",
+        "product_rating_img": "/Images/grade_icon/rating_all.gif"
+    },
+    {
         "product_number": "EPIC-SG-240311-0001",
         "product_name": "Language Learning Simulator : Alphabet",
         "product_date": "2024-03-11",
         "product_rating_img": "/Images/grade_icon/rating_12.gif"
     },
     {
-        "product_number": "EPIC-SG-240311-0002",
-        "product_name": "Never Synth",
-        "product_date": "2024-03-11",
+        "product_number": "EPIC-SG-240304-0016",
+        "product_name": "SOS OPS!",
+        "product_date": "2024-03-04",
         "product_rating_img": "/Images/grade_icon/rating_all.gif"
+    },
+    {
+        "product_number": "EPIC-SG-240304-0013",
+        "product_name": "Ninja Chowdown: Glaze of Glory",
+        "product_date": "2024-03-04",
+        "product_rating_img": "/Images/grade_icon/rating_12.gif"
+    },
+    {
+        "product_number": "EPIC-SG-240304-0001",
+        "product_name": "Wuthering Waves",
+        "product_date": "2024-03-04",
+        "product_rating_img": "/Images/grade_icon/rating_12.gif"
     },
     {
         "product_number": "EPIC-SG-240304-0018",
@@ -192,14 +408,14 @@
         "product_rating_img": "/Images/grade_icon/rating_all.gif"
     },
     {
-        "product_number": "EPIC-SG-240304-0008",
-        "product_name": "Gordian Rooms 2: A curious island",
+        "product_number": "EPIC-SG-240304-0011",
+        "product_name": "Wizened Dream",
         "product_date": "2024-03-04",
         "product_rating_img": "/Images/grade_icon/rating_all.gif"
     },
     {
-        "product_number": "EPIC-SG-240304-0011",
-        "product_name": "Wizened Dream",
+        "product_number": "EPIC-SG-240304-0008",
+        "product_name": "Gordian Rooms 2: A curious island",
         "product_date": "2024-03-04",
         "product_rating_img": "/Images/grade_icon/rating_all.gif"
     },
@@ -210,16 +426,16 @@
         "product_rating_img": "/Images/grade_icon/rating_all.gif"
     },
     {
-        "product_number": "EPIC-SG-240304-0002",
-        "product_name": "Project Element",
-        "product_date": "2024-03-04",
-        "product_rating_img": "/Images/grade_icon/rating_12.gif"
-    },
-    {
         "product_number": "EPIC-SG-240304-0009",
         "product_name": "Lost Islands",
         "product_date": "2024-03-04",
         "product_rating_img": "/Images/grade_icon/rating_all.gif"
+    },
+    {
+        "product_number": "EPIC-SG-240304-0002",
+        "product_name": "Project Element",
+        "product_date": "2024-03-04",
+        "product_rating_img": "/Images/grade_icon/rating_12.gif"
     },
     {
         "product_number": "EPIC-SG-240304-0003",
@@ -282,6 +498,12 @@
         "product_rating_img": "/Images/grade_icon/rating_all.gif"
     },
     {
+        "product_number": "EPIC-SG-240122-0016",
+        "product_name": "Survival: Fountain of Youth",
+        "product_date": "2024-01-22",
+        "product_rating_img": "/Images/grade_icon/rating_15.gif"
+    },
+    {
         "product_number": "EPIC-SG-240122-0004",
         "product_name": "Robobeat",
         "product_date": "2024-01-22",
@@ -300,16 +522,16 @@
         "product_rating_img": "/Images/grade_icon/rating_15.gif"
     },
     {
-        "product_number": "EPIC-SG-240122-0007",
-        "product_name": "Potions: A Curious Tale",
-        "product_date": "2024-01-22",
-        "product_rating_img": "/Images/grade_icon/rating_12.gif"
-    },
-    {
         "product_number": "EPIC-SG-240122-0002",
         "product_name": "Gambit Shifter",
         "product_date": "2024-01-22",
         "product_rating_img": "/Images/grade_icon/rating_all.gif"
+    },
+    {
+        "product_number": "EPIC-SG-240122-0007",
+        "product_name": "Potions: A Curious Tale",
+        "product_date": "2024-01-22",
+        "product_rating_img": "/Images/grade_icon/rating_12.gif"
     },
     {
         "product_number": "EPIC-SG-240122-0019",
@@ -468,6 +690,12 @@
         "product_rating_img": "/Images/grade_icon/rating_all.gif"
     },
     {
+        "product_number": "EPIC-SG-231204-0002",
+        "product_name": "Hauntii",
+        "product_date": "2023-12-04",
+        "product_rating_img": "/Images/grade_icon/rating_12.gif"
+    },
+    {
         "product_number": "EPIC-SG-231204-0007",
         "product_name": "The Devil Within: Satgat",
         "product_date": "2023-12-04",
@@ -564,6 +792,12 @@
         "product_rating_img": "/Images/grade_icon/rating_all.gif"
     },
     {
+        "product_number": "EPIC-SG-231106-0002",
+        "product_name": "Flintlock: The Siege of Dawn",
+        "product_date": "2023-11-06",
+        "product_rating_img": "/Images/grade_icon/rating_15.gif"
+    },
+    {
         "product_number": "EPIC-SG-231106-0001",
         "product_name": "Back Then",
         "product_date": "2023-11-06",
@@ -580,6 +814,24 @@
         "product_name": "Roboquest",
         "product_date": "2023-11-02",
         "product_rating_img": "/Images/grade_icon/rating_12.gif"
+    },
+    {
+        "product_number": "EPIC-SG-231101-0002",
+        "product_name": "Perennial Order",
+        "product_date": "2023-11-01",
+        "product_rating_img": "/Images/grade_icon/rating_15.gif"
+    },
+    {
+        "product_number": "EPIC-SG-231101-0006",
+        "product_name": "Cat Quest II",
+        "product_date": "2023-11-01",
+        "product_rating_img": "/Images/grade_icon/rating_12.gif"
+    },
+    {
+        "product_number": "EPIC-SG-231101-0010",
+        "product_name": "Bloomtown: A Different Story",
+        "product_date": "2023-11-01",
+        "product_rating_img": "/Images/grade_icon/rating_15.gif"
     },
     {
         "product_number": "EPIC-SG-231101-0004",
@@ -621,6 +873,18 @@
         "product_number": "EPIC-SG-231101-0008",
         "product_name": "Jitsu Squad",
         "product_date": "2023-11-01",
+        "product_rating_img": "/Images/grade_icon/rating_15.gif"
+    },
+    {
+        "product_number": "EPIC-SG-231031-0022",
+        "product_name": "Scott Whiskers in: the Search for Mr. Fumbleclaw",
+        "product_date": "2023-10-31",
+        "product_rating_img": "/Images/grade_icon/rating_15.gif"
+    },
+    {
+        "product_number": "EPIC-SG-231031-0009",
+        "product_name": "Universe Has No Favorites",
+        "product_date": "2023-10-31",
         "product_rating_img": "/Images/grade_icon/rating_15.gif"
     },
     {
@@ -786,6 +1050,12 @@
         "product_rating_img": "/Images/grade_icon/rating_all.gif"
     },
     {
+        "product_number": "EPIC-SG-230921-0003",
+        "product_name": "Godlike Burger",
+        "product_date": "2023-09-21",
+        "product_rating_img": "/Images/grade_icon/rating_15.gif"
+    },
+    {
         "product_number": "EPIC-SG-230921-0001",
         "product_name": "YourWorld 3.0 Live",
         "product_date": "2023-09-21",
@@ -796,12 +1066,6 @@
         "product_name": "Bang-On Balls: Chronicles",
         "product_date": "2023-09-21",
         "product_rating_img": "/Images/grade_icon/rating_all.gif"
-    },
-    {
-        "product_number": "EPIC-SG-230921-0003",
-        "product_name": "Godlike Burger",
-        "product_date": "2023-09-21",
-        "product_rating_img": "/Images/grade_icon/rating_15.gif"
     },
     {
         "product_number": "EPIC-SG-230918-0002",
@@ -846,6 +1110,12 @@
         "product_rating_img": "/Images/grade_icon/rating_15.gif"
     },
     {
+        "product_number": "EPIC-SG-230907-0007",
+        "product_name": "Crystal Ball Critters",
+        "product_date": "2023-09-07",
+        "product_rating_img": "/Images/grade_icon/rating_all.gif"
+    },
+    {
         "product_number": "EPIC-SG-230907-0022",
         "product_name": "Arto",
         "product_date": "2023-09-07",
@@ -856,12 +1126,6 @@
         "product_name": "Everholm",
         "product_date": "2023-09-07",
         "product_rating_img": "/Images/grade_icon/rating_12.gif"
-    },
-    {
-        "product_number": "EPIC-SG-230907-0007",
-        "product_name": "Crystal Ball Critters",
-        "product_date": "2023-09-07",
-        "product_rating_img": "/Images/grade_icon/rating_all.gif"
     },
     {
         "product_number": "EPIC-SG-230907-0016",
@@ -948,10 +1212,10 @@
         "product_rating_img": "/Images/grade_icon/rating_all.gif"
     },
     {
-        "product_number": "EPIC-SG-230907-0017",
-        "product_name": "R.I.C.E.",
+        "product_number": "EPIC-SG-230907-0015",
+        "product_name": "World Turtles",
         "product_date": "2023-09-07",
-        "product_rating_img": "/Images/grade_icon/rating_12.gif"
+        "product_rating_img": "/Images/grade_icon/rating_all.gif"
     },
     {
         "product_number": "EPIC-SG-230907-0021",
@@ -960,10 +1224,10 @@
         "product_rating_img": "/Images/grade_icon/rating_12.gif"
     },
     {
-        "product_number": "EPIC-SG-230907-0015",
-        "product_name": "World Turtles",
+        "product_number": "EPIC-SG-230907-0017",
+        "product_name": "R.I.C.E.",
         "product_date": "2023-09-07",
-        "product_rating_img": "/Images/grade_icon/rating_all.gif"
+        "product_rating_img": "/Images/grade_icon/rating_12.gif"
     },
     {
         "product_number": "EPIC-SG-230907-0006",
@@ -976,6 +1240,12 @@
         "product_name": "Model Builder",
         "product_date": "2023-09-07",
         "product_rating_img": "/Images/grade_icon/rating_all.gif"
+    },
+    {
+        "product_number": "EPIC-SG-230904-0003",
+        "product_name": "Moon Mystery",
+        "product_date": "2023-09-04",
+        "product_rating_img": "/Images/grade_icon/rating_15.gif"
     },
     {
         "product_number": "EPIC-SG-230904-0001",
@@ -1146,14 +1416,14 @@
         "product_rating_img": "/Images/grade_icon/rating_all.gif"
     },
     {
-        "product_number": "EPIC-SG-230810-0007",
-        "product_name": "Retro Racers 2",
+        "product_number": "EPIC-SG-230810-0012",
+        "product_name": "Brick Breaker Premium 3",
         "product_date": "2023-08-10",
         "product_rating_img": "/Images/grade_icon/rating_all.gif"
     },
     {
-        "product_number": "EPIC-SG-230810-0012",
-        "product_name": "Brick Breaker Premium 3",
+        "product_number": "EPIC-SG-230810-0007",
+        "product_name": "Retro Racers 2",
         "product_date": "2023-08-10",
         "product_rating_img": "/Images/grade_icon/rating_all.gif"
     },
@@ -1473,7 +1743,7 @@
         "product_number": "EPIC-SG-230530-0001",
         "product_name": "Battle Planet - Judgement Day",
         "product_date": "2023-05-30",
-        "product_rating_img": "/Images/grade_icon/rating_15.gif"
+        "product_rating_img": "/Images/grade_icon/rating_18.gif"
     },
     {
         "product_number": "EPIC-SG-230524-0001",
@@ -1482,16 +1752,16 @@
         "product_rating_img": "/Images/grade_icon/rating_15.gif"
     },
     {
-        "product_number": "EPIC-SG-230524-0003",
-        "product_name": "Rescue Agency. The Kidnapper of happiness",
-        "product_date": "2023-05-24",
-        "product_rating_img": "/Images/grade_icon/rating_all.gif"
-    },
-    {
         "product_number": "EPIC-SG-230524-0004",
         "product_name": "Midnight Ghost Hunt",
         "product_date": "2023-05-24",
         "product_rating_img": "/Images/grade_icon/rating_15.gif"
+    },
+    {
+        "product_number": "EPIC-SG-230524-0003",
+        "product_name": "Rescue Agency. The Kidnapper of happiness",
+        "product_date": "2023-05-24",
+        "product_rating_img": "/Images/grade_icon/rating_all.gif"
     },
     {
         "product_number": "EPIC-SG-230524-0002",
@@ -2412,16 +2682,16 @@
         "product_rating_img": "/Images/grade_icon/rating_all.gif"
     },
     {
-        "product_number": "EPIC-SG-221006-0003",
-        "product_name": "SkyDrift Infinity",
-        "product_date": "2022-10-06",
-        "product_rating_img": "/Images/grade_icon/rating_12.gif"
-    },
-    {
         "product_number": "EPIC-SG-221006-0004",
         "product_name": "Saint Kotar",
         "product_date": "2022-10-06",
         "product_rating_img": "/Images/grade_icon/rating_15.gif"
+    },
+    {
+        "product_number": "EPIC-SG-221006-0003",
+        "product_name": "SkyDrift Infinity",
+        "product_date": "2022-10-06",
+        "product_rating_img": "/Images/grade_icon/rating_12.gif"
     },
     {
         "product_number": "EPIC-SG-221006-0008",
@@ -2550,16 +2820,16 @@
         "product_rating_img": "/Images/grade_icon/rating_15.gif"
     },
     {
-        "product_number": "EPIC-SG-220915-0003",
-        "product_name": "RAILGRADE",
-        "product_date": "2022-09-15",
-        "product_rating_img": "/Images/grade_icon/rating_all.gif"
-    },
-    {
         "product_number": "EPIC-SG-220915-0007",
         "product_name": "Monorail Stories",
         "product_date": "2022-09-15",
         "product_rating_img": "/Images/grade_icon/rating_15.gif"
+    },
+    {
+        "product_number": "EPIC-SG-220915-0003",
+        "product_name": "RAILGRADE",
+        "product_date": "2022-09-15",
+        "product_rating_img": "/Images/grade_icon/rating_all.gif"
     },
     {
         "product_number": "EPIC-SG-220915-0004",
@@ -3042,16 +3312,16 @@
         "product_rating_img": "/Images/grade_icon/rating_12.gif"
     },
     {
-        "product_number": "EPIC-SG-220203-0002",
-        "product_name": "Submerged: Hidden Depths",
-        "product_date": "2022-02-03",
-        "product_rating_img": "/Images/grade_icon/rating_12.gif"
-    },
-    {
         "product_number": "EPIC-SG-220203-0003",
         "product_name": "Doodle God",
         "product_date": "2022-02-03",
         "product_rating_img": "/Images/grade_icon/rating_15.gif"
+    },
+    {
+        "product_number": "EPIC-SG-220203-0002",
+        "product_name": "Submerged: Hidden Depths",
+        "product_date": "2022-02-03",
+        "product_rating_img": "/Images/grade_icon/rating_12.gif"
     },
     {
         "product_number": "EPIC-SG-220203-0004",
@@ -3468,14 +3738,14 @@
         "product_rating_img": "/Images/grade_icon/rating_12.gif"
     },
     {
-        "product_number": "EPIC-SG-211005-0004",
-        "product_name": "HammerHelm",
+        "product_number": "EPIC-SG-211005-0006",
+        "product_name": "DARQ: Complete Edition",
         "product_date": "2021-10-05",
         "product_rating_img": "/Images/grade_icon/rating_15.gif"
     },
     {
-        "product_number": "EPIC-SG-211005-0006",
-        "product_name": "DARQ: Complete Edition",
+        "product_number": "EPIC-SG-211005-0004",
+        "product_name": "HammerHelm",
         "product_date": "2021-10-05",
         "product_rating_img": "/Images/grade_icon/rating_15.gif"
     },
@@ -3564,16 +3834,16 @@
         "product_rating_img": "/Images/grade_icon/rating_15.gif"
     },
     {
-        "product_number": "EPIC-SG-210914-0001",
-        "product_name": "Fisti-Fluffs",
-        "product_date": "2021-09-14",
-        "product_rating_img": "/Images/grade_icon/rating_12.gif"
-    },
-    {
         "product_number": "EPIC-SG-210914-0005",
         "product_name": "Buddy Simulator 1984",
         "product_date": "2021-09-14",
         "product_rating_img": "/Images/grade_icon/rating_15.gif"
+    },
+    {
+        "product_number": "EPIC-SG-210914-0001",
+        "product_name": "Fisti-Fluffs",
+        "product_date": "2021-09-14",
+        "product_rating_img": "/Images/grade_icon/rating_12.gif"
     },
     {
         "product_number": "EPIC-SG-210914-0002",
@@ -4440,16 +4710,16 @@
         "product_rating_img": "/Images/grade_icon/rating_15.gif"
     },
     {
-        "product_number": "EPIC-SG-210329-0002",
-        "product_name": "Claire de Lune",
-        "product_date": "2021-03-29",
-        "product_rating_img": "/Images/grade_icon/rating_15.gif"
-    },
-    {
         "product_number": "EPIC-SG-210329-0001",
         "product_name": "KINGDOM HEARTS HD 2.8 Final Chapter Prologue",
         "product_date": "2021-03-29",
         "product_rating_img": "/Images/grade_icon/rating_12.gif"
+    },
+    {
+        "product_number": "EPIC-SG-210329-0002",
+        "product_name": "Claire de Lune",
+        "product_date": "2021-03-29",
+        "product_rating_img": "/Images/grade_icon/rating_15.gif"
     },
     {
         "product_number": "EPIC-SG-210329-0003",
@@ -4484,12 +4754,6 @@
     {
         "product_number": "EPIC-SG-210318-0001",
         "product_name": "Geneforge 1 – Mutagen",
-        "product_date": "2021-03-18",
-        "product_rating_img": "/Images/grade_icon/rating_12.gif"
-    },
-    {
-        "product_number": "EPIC-SG-210318-0002",
-        "product_name": "Empires of the Undergrowth",
         "product_date": "2021-03-18",
         "product_rating_img": "/Images/grade_icon/rating_12.gif"
     },
@@ -4714,41 +4978,5 @@
         "product_name": "I Am Dead",
         "product_date": "2021-02-01",
         "product_rating_img": "/Images/grade_icon/rating_12.gif"
-    },
-    {
-        "product_number": "EPIC-SG-210201-0002",
-        "product_name": "Oddworld: Soulstorm",
-        "product_date": "2021-02-01",
-        "product_rating_img": "/Images/grade_icon/rating_15.gif"
-    },
-    {
-        "product_number": "EPIC-SG-210201-0003",
-        "product_name": "Gorogoa",
-        "product_date": "2021-02-01",
-        "product_rating_img": "/Images/grade_icon/rating_all.gif"
-    },
-    {
-        "product_number": "EPIC-SG-210128-0001",
-        "product_name": "Dandara",
-        "product_date": "2021-01-28",
-        "product_rating_img": "/Images/grade_icon/rating_12.gif"
-    },
-    {
-        "product_number": "EPIC-SG-210125-0001",
-        "product_name": "Gods Will Fall",
-        "product_date": "2021-01-25",
-        "product_rating_img": "/Images/grade_icon/rating_18.gif"
-    },
-    {
-        "product_number": "EPIC-SG-210125-0002",
-        "product_name": "The Pathless",
-        "product_date": "2021-01-25",
-        "product_rating_img": "/Images/grade_icon/rating_12.gif"
-    },
-    {
-        "product_number": "EPIC-SG-210119-0001",
-        "product_name": "Monkey Barrels",
-        "product_date": "2021-01-19",
-        "product_rating_img": "/Images/grade_icon/rating_all.gif"
     }
 ]
