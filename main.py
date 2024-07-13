@@ -39,7 +39,7 @@ class Scraper:
         data = []
 
         for page in range(page_count):
-            print(f"Processing {page}/{page_count}")
+            print(f"Processing {page+1}/{page_count}")
 
             files.page = str(page)
 
