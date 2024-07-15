@@ -27,10 +27,10 @@ class Scraper:
 
         print("Requesting pages and view_state...")
 
-        data_soup = self.get_page_soup(files.get_files())
+        data_soup = self._get_page_soup(files.get_files())
 
-        page_count = self.get_page_count(data_soup)
-        view_state = self.get_view_state(data_soup)
+        page_count = self._get_page_count(data_soup)
+        view_state = self._get_view_state(data_soup)
 
         files.view_state = view_state
 
@@ -43,20 +43,20 @@ class Scraper:
 
             files.page = str(page)
 
-            soup = self.get_page_soup(files.get_files())
+            soup = self._get_page_soup(files.get_files())
 
-            data.extend(self.parse_page(soup))
+            data.extend(self._parse_page(soup))
 
         return data
 
-    def get_page_soup(self, files: dict | None = None) -> BeautifulSoup:
+    def _get_page_soup(self, files: dict | None = None) -> BeautifulSoup:
         response = self._session.post(WEBSITE, files=files)
 
         soup = BeautifulSoup(response.text, "lxml")
 
         return soup
 
-    def get_page_count(self, soup: BeautifulSoup) -> int:
+    def _get_page_count(self, soup: BeautifulSoup) -> int:
         pagination = soup.find("div", class_="pagination")
 
         if not pagination:
@@ -80,7 +80,7 @@ class Scraper:
         return page_count
 
     # Reference: https://stackoverflow.com/a/73239931
-    def get_hidden_input(self, soup: BeautifulSoup) -> dict:
+    def _get_hidden_input(self, soup: BeautifulSoup) -> dict:
         tags = {}
 
         hidden_tags = soup.find_all(
@@ -88,20 +88,19 @@ class Scraper:
             type="hidden",
         )
 
-        for tag in hidden_tags:
-            tags[tag.get("name")] = tag.get("value")
+        tags = {tag.get("name"): tag.get("value") for tag in hidden_tags}
 
         return tags
 
-    def get_view_state(self, soup: BeautifulSoup) -> str:
-        hidden_inputs = self.get_hidden_input(soup)
+    def _get_view_state(self, soup: BeautifulSoup) -> str:
+        hidden_inputs = self._get_hidden_input(soup)
 
         if not hidden_inputs.get("__VIEWSTATE"):
             raise KeyError(f"Can't find __VIEWSTATE in {hidden_inputs}")
 
         return hidden_inputs["__VIEWSTATE"]
 
-    def parse_page(self, soup: BeautifulSoup) -> list[dict]:
+    def _parse_page(self, soup: BeautifulSoup) -> list[dict]:
         products = soup.select("tr[id^=ctl00_ContentHolder_rptGradeDoc]")
 
         if not products:
