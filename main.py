@@ -18,7 +18,7 @@ class Scraper:
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
         })
 
-    def get_data(self, rating: str = ""):
+    def get_data(self, rating: str = "") -> list[dict]:
         files = Files(
             rating=rating,
             start_date="2000-01-01",
@@ -62,7 +62,7 @@ class Scraper:
         if not pagination:
             raise RuntimeError("Pagination not founded")
 
-        buttons = pagination.find_all("a")
+        buttons = pagination.find_all("a") # type: ignore  # noqa: PGH003
 
         if not buttons:
             raise RuntimeError(f"Buttons not founded in pagination: {pagination}")
@@ -150,7 +150,7 @@ def save_data_to_txt(filename: str, data: list[dict]) -> None:
     with Path(f"{filename}.txt").open("w", encoding="utf-8") as file:
         file.write("".join(text))
 
-def main():
+def main() -> None:
     app = Scraper()
 
     # I use EPIC but you can edit to any you want
